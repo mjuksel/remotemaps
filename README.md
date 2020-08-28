@@ -16,6 +16,7 @@ Please make sure it's Map,1tab,Number,2tabs,Name
 ```
 
 For ease of use I made a small script.
+
 Paste the entire content of the textfile you get from "File -> Export Device Remote Info" in Reason.
 
-Link: mjxl.net/txt2remote
+[LINK](mjxl.net/txt2remote)

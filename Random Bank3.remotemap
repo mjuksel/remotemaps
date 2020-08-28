@@ -51,10 +51,6 @@ Map	42		Mod Velocity Re
 Map	43		Macro 1
 Map	44		Macro 2
 
-//**********************************************************************************
-//		End of Wiggle
-//**********************************************************************************
-
 Scope	A1AUDIO.de	vst.A1Tg.A1TriggerGate-x64
 
 Map	1		StepLength-03-G
@@ -120,10 +116,6 @@ Map	60		StepVolume-15-H
 Map	61		StepLength-16-H
 Map	62		StepVolume-16-H
 Map	63		reserved
-
-//**********************************************************************************
-//		End of A1TriggerGate-x64
-//**********************************************************************************
 
 Scope	Alien Seed Tech	com.alienseed.KRON
 
@@ -247,10 +239,6 @@ Map	117		Mod Grid 1 Source
 Map	118		Mod Grid 2 Source
 Map	119		Mod Grid 3 Source
 
-//**********************************************************************************
-//		End of KRON
-//**********************************************************************************
-
 Scope	Applied Acoustics Systems	vst.0OMB.String Studio VS-2
 
 Map	1		Flanger 2: Delay
@@ -283,10 +271,6 @@ Map	27		Clock: Tempo
 Map	28		Clock: Tap
 Map	29		Global: Volume
 Map	30		Global: Tune
-
-//**********************************************************************************
-//		End of String Studio VS-2
-//**********************************************************************************
 
 Scope	Applied Acoustics Systems	vst.B409.Strum GS-2
 
@@ -342,10 +326,6 @@ Map	49		Compressor 2: Ratio
 Map	50		Compressor 2: Attack
 Map	51		Compressor 2: Release
 Map	52		Compressor 2: Gain
-
-//**********************************************************************************
-//		End of Strum GS-2
-//**********************************************************************************
 
 Scope	apulSoft	vst.apQU.apQualizr x64
 
@@ -469,10 +449,6 @@ Map	117		F44 Freq
 Map	118		F44 Gain
 Map	119		F44 Bandwidth
 
-//**********************************************************************************
-//		End of apQualizr x64
-//**********************************************************************************
-
 Scope	Arturia	vst.ArDS.Spark
 
 Map	1		16  Filter Type
@@ -587,17 +563,13 @@ Map	109		 4  - 1 Dry Wet
 Map	110		 5  Fx 1 Parame
 Map	111		 5  - 1 Bypass
 Map	112		 5  - 1 Dry Wet
-Map	113		 6  Param EQ 1 
+Map	113		 6  Param EQ 1
 Map	114		 7  Fx 1 Parame
 Map	115		 7  - 1 Bypass
 Map	116		 7  - 1 Dry Wet
 Map	117		 8  Fx 1 Parame
 Map	118		 8  - 1 Bypass
 Map	119		 8  - 1 Dry Wet
-
-//**********************************************************************************
-//		End of Spark
-//**********************************************************************************
 
 Scope	Arturia	vst.CSV3.CS-80 V3
 
@@ -721,10 +693,6 @@ Map	117		Patch4 VCF2 Release Time
 Map	118		Patch4 VCA2 Attack Time
 Map	119		Patch4 VCA2 Decay Time
 
-//**********************************************************************************
-//		End of CS-80 V3
-//**********************************************************************************
-
 Scope	Arturia	vst.Dx71.DX7 V
 
 Map	1		Op 5 EG Level 1
@@ -846,10 +814,6 @@ Map	116		Seq Steps
 Map	117		Seq Amount 1
 Map	118		Seq Amount 2
 Map	119		Seq Amount 3
-
-//**********************************************************************************
-//		End of DX7 V
-//**********************************************************************************
 
 Scope	Arturia	vst.Mat2.Matrix-12 V2
 
@@ -973,10 +937,6 @@ Map	117		Slot14 Destination
 Map	118		Slot14 Amount
 Map	119		Slot14 Quantize
 
-//**********************************************************************************
-//		End of Matrix-12 V2
-//**********************************************************************************
-
 Scope	Arturia	vst.Sycl.Synclavier V
 
 Map	1		Modulator Depth 5
@@ -1098,10 +1058,6 @@ Map	116		Partial Octave 8
 Map	117		Partial Chorus 8
 Map	118		Partial Chorus (Fine) 8
 Map	119		Partial FM Ratio 8
-
-//**********************************************************************************
-//		End of Synclavier V
-//**********************************************************************************
 
 Scope	Blamsoft, Inc.	com.blamsoft.eXpanse
 
@@ -1225,10 +1181,6 @@ Map	117		OSC 2 Unison Density
 Map	118		OSC 2 Unison Detune
 Map	119		OSC 2 Unison Spread
 
-//**********************************************************************************
-//		End of eXpanse
-//**********************************************************************************
-
 Scope	Blamsoft, Inc.	com.blamsoft.Zero
 
 Map	1		Op 4 Modulation Envelope Stage 5 Time
@@ -1350,10 +1302,6 @@ Map	116		Op 1 Phase Envelope Stage 0 Level
 Map	117		Op 1 Phase Envelope Stage 1 Level
 Map	118		Op 1 Phase Envelope Stage 2 Level
 Map	119		Op 1 Phase Envelope Stage 3 Level
-
-//**********************************************************************************
-//		End of Zero
-//**********************************************************************************
 
 Scope	Bram @ Smartelectronix	vst.Ping.OnePingOnly
 
@@ -1477,10 +1425,6 @@ Map	117		Freq60
 Map	118		Dur60
 Map	119		Amp60
 
-//**********************************************************************************
-//		End of OnePingOnly
-//**********************************************************************************
-
 Scope	Cableguys	vst.CGF2.FilterShaper2 x64
 
 Map	1		Wave3.16 Y
@@ -1602,10 +1546,6 @@ Map	116		Wave5.14 Type
 Map	117		Wave5.15 X
 Map	118		Wave5.15 Y
 Map	119		Wave5.15 Type
-
-//**********************************************************************************
-//		End of FilterShaper2 x64
-//**********************************************************************************
 
 Scope	Cableguys	vst.CGF3.FilterShaper3 x64
 
@@ -1729,10 +1669,6 @@ Map	117		P33.1 Intensity
 Map	118		P33.1 Speed Type
 Map	119		P33.1 Loop Lengt
 
-//**********************************************************************************
-//		End of FilterShaper3 x64
-//**********************************************************************************
-
 Scope	Cableguys	vst.CGM1.MidiShaper x64
 
 Map	1		Wave3.6 Type
@@ -1854,10 +1790,6 @@ Map	116		Wave5.5 X
 Map	117		Wave5.5 Y
 Map	118		Wave5.5 Type
 Map	119		Wave5.6 X
-
-//**********************************************************************************
-//		End of MidiShaper x64
-//**********************************************************************************
 
 Scope	Cableguys	vst.CGP1.PanCake2 x64
 
@@ -1981,10 +1913,6 @@ Map	117		Wave6.15 X
 Map	118		Wave6.15 Y
 Map	119		Wave6.15 Type
 
-//**********************************************************************************
-//		End of PanCake2 x64
-//**********************************************************************************
-
 Scope	Cableguys	vst.CGV1.VolumeShaper3 x64
 
 Map	1		Wave4.16 Y
@@ -2106,10 +2034,6 @@ Map	116		Wave6.14 Type
 Map	117		Wave6.15 X
 Map	118		Wave6.15 Y
 Map	119		Wave6.15 Type
-
-//**********************************************************************************
-//		End of VolumeShaper3 x64
-//**********************************************************************************
 
 Scope	Cableguys	vst.CGV4.VolumeShaper4 x64
 
@@ -2233,10 +2157,6 @@ Map	117		Wave3.32 Type
 Map	118		Wave3.33 X
 Map	119		Wave3.33 Y
 
-//**********************************************************************************
-//		End of VolumeShaper4 x64
-//**********************************************************************************
-
 Scope	Cakewalk	vst.z3t2.Z3TA+ 2 x64
 
 Map	1		EG3 Release Shape
@@ -2359,10 +2279,6 @@ Map	117		Modulation Feedb
 Map	118		Modulation Lo Eq
 Map	119		Modulation Level
 
-//**********************************************************************************
-//		End of Z3TA+ 2 x64
-//**********************************************************************************
-
 Scope	Camel Audio	vst.CaS1.CamelSpace x64
 
 Map	1		Seq6Tie11Vol
@@ -2465,101 +2381,93 @@ Map	97		Unused3
 Map	98		Unused4
 Map	99		Unused5
 
-//**********************************************************************************
-//		End of CamelSpace x64
-//**********************************************************************************
-
 Scope	CutterMusic	vst.cmr2.Revitar 2_17
 
-Map	1		 AbsChord 9 Note 5 
-Map	2		 AbsChord 10 Note 0 
-Map	3		 AbsChord 10 Note 1 
-Map	4		 AbsChord 10 Note 2 
-Map	5		 AbsChord 10 Note 3 
-Map	6		 AbsChord 10 Note 4 
-Map	7		 AbsChord 10 Note 5 
-Map	8		 AbsChord 11 Note 0 
-Map	9		 AbsChord 11 Note 1 
-Map	10		 AbsChord 11 Note 2 
-Map	11		 AbsChord 11 Note 3 
-Map	12		 AbsChord 11 Note 4 
-Map	13		 AbsChord 11 Note 5 
-Map	14		 AbsChord 12 Note 0 
-Map	15		 AbsChord 12 Note 1 
-Map	16		 AbsChord 12 Note 2 
-Map	17		 AbsChord 12 Note 3 
-Map	18		 AbsChord 12 Note 4 
-Map	19		 AbsChord 12 Note 5 
-Map	20		 AbsChord 13 Note 0 
-Map	21		 AbsChord 13 Note 1 
-Map	22		 AbsChord 13 Note 2 
-Map	23		 AbsChord 13 Note 3 
-Map	24		 AbsChord 13 Note 4 
-Map	25		 AbsChord 13 Note 5 
-Map	26		 AbsChord 14 Note 0 
-Map	27		 AbsChord 14 Note 1 
-Map	28		 AbsChord 14 Note 2 
-Map	29		 AbsChord 14 Note 3 
-Map	30		 AbsChord 14 Note 4 
-Map	31		 AbsChord 14 Note 5 
-Map	32		 AbsChord 15 Note 0 
-Map	33		 AbsChord 15 Note 1 
-Map	34		 AbsChord 15 Note 2 
-Map	35		 AbsChord 15 Note 3 
-Map	36		 AbsChord 15 Note 4 
-Map	37		 AbsChord 15 Note 5 
-Map	38		 AbsChord 16 Note 0 
-Map	39		 AbsChord 16 Note 1 
-Map	40		 AbsChord 16 Note 2 
-Map	41		 AbsChord 16 Note 3 
-Map	42		 AbsChord 16 Note 4 
-Map	43		 AbsChord 16 Note 5 
-Map	44		 AbsChord 17 Note 0 
-Map	45		 AbsChord 17 Note 1 
-Map	46		 AbsChord 17 Note 2 
-Map	47		 AbsChord 17 Note 3 
-Map	48		 AbsChord 17 Note 4 
-Map	49		 AbsChord 17 Note 5 
-Map	50		 AbsChord 18 Note 0 
-Map	51		 AbsChord 18 Note 1 
-Map	52		 AbsChord 18 Note 2 
-Map	53		 AbsChord 18 Note 3 
-Map	54		 AbsChord 18 Note 4 
-Map	55		 AbsChord 18 Note 5 
-Map	56		 AbsChord 19 Note 0 
-Map	57		 AbsChord 19 Note 1 
-Map	58		 AbsChord 19 Note 2 
-Map	59		 AbsChord 19 Note 3 
-Map	60		 AbsChord 19 Note 4 
-Map	61		 AbsChord 19 Note 5 
-Map	62		 AbsChord 20 Note 0 
-Map	63		 AbsChord 20 Note 1 
-Map	64		 AbsChord 20 Note 2 
-Map	65		 AbsChord 20 Note 3 
-Map	66		 AbsChord 20 Note 4 
-Map	67		 AbsChord 20 Note 5 
-Map	68		 AbsChord 21 Note 0 
-Map	69		 AbsChord 21 Note 1 
-Map	70		 AbsChord 21 Note 2 
-Map	71		 AbsChord 21 Note 3 
-Map	72		 AbsChord 21 Note 4 
-Map	73		 AbsChord 21 Note 5 
-Map	74		 AbsChord 22 Note 0 
-Map	75		 AbsChord 22 Note 1 
-Map	76		 AbsChord 22 Note 2 
-Map	77		 AbsChord 22 Note 3 
-Map	78		 AbsChord 22 Note 4 
-Map	79		 AbsChord 22 Note 5 
-Map	80		 AbsChord 23 Note 0 
-Map	81		 AbsChord 23 Note 1 
-Map	82		 AbsChord 23 Note 2 
-Map	83		 AbsChord 23 Note 3 
-Map	84		 AbsChord 23 Note 4 
-Map	85		 AbsChord 23 Note 5 
-
-//**********************************************************************************
-//		End of Revitar 2_17
-//**********************************************************************************
+Map	1		 AbsChord 9 Note 5
+Map	2		 AbsChord 10 Note 0
+Map	3		 AbsChord 10 Note 1
+Map	4		 AbsChord 10 Note 2
+Map	5		 AbsChord 10 Note 3
+Map	6		 AbsChord 10 Note 4
+Map	7		 AbsChord 10 Note 5
+Map	8		 AbsChord 11 Note 0
+Map	9		 AbsChord 11 Note 1
+Map	10		 AbsChord 11 Note 2
+Map	11		 AbsChord 11 Note 3
+Map	12		 AbsChord 11 Note 4
+Map	13		 AbsChord 11 Note 5
+Map	14		 AbsChord 12 Note 0
+Map	15		 AbsChord 12 Note 1
+Map	16		 AbsChord 12 Note 2
+Map	17		 AbsChord 12 Note 3
+Map	18		 AbsChord 12 Note 4
+Map	19		 AbsChord 12 Note 5
+Map	20		 AbsChord 13 Note 0
+Map	21		 AbsChord 13 Note 1
+Map	22		 AbsChord 13 Note 2
+Map	23		 AbsChord 13 Note 3
+Map	24		 AbsChord 13 Note 4
+Map	25		 AbsChord 13 Note 5
+Map	26		 AbsChord 14 Note 0
+Map	27		 AbsChord 14 Note 1
+Map	28		 AbsChord 14 Note 2
+Map	29		 AbsChord 14 Note 3
+Map	30		 AbsChord 14 Note 4
+Map	31		 AbsChord 14 Note 5
+Map	32		 AbsChord 15 Note 0
+Map	33		 AbsChord 15 Note 1
+Map	34		 AbsChord 15 Note 2
+Map	35		 AbsChord 15 Note 3
+Map	36		 AbsChord 15 Note 4
+Map	37		 AbsChord 15 Note 5
+Map	38		 AbsChord 16 Note 0
+Map	39		 AbsChord 16 Note 1
+Map	40		 AbsChord 16 Note 2
+Map	41		 AbsChord 16 Note 3
+Map	42		 AbsChord 16 Note 4
+Map	43		 AbsChord 16 Note 5
+Map	44		 AbsChord 17 Note 0
+Map	45		 AbsChord 17 Note 1
+Map	46		 AbsChord 17 Note 2
+Map	47		 AbsChord 17 Note 3
+Map	48		 AbsChord 17 Note 4
+Map	49		 AbsChord 17 Note 5
+Map	50		 AbsChord 18 Note 0
+Map	51		 AbsChord 18 Note 1
+Map	52		 AbsChord 18 Note 2
+Map	53		 AbsChord 18 Note 3
+Map	54		 AbsChord 18 Note 4
+Map	55		 AbsChord 18 Note 5
+Map	56		 AbsChord 19 Note 0
+Map	57		 AbsChord 19 Note 1
+Map	58		 AbsChord 19 Note 2
+Map	59		 AbsChord 19 Note 3
+Map	60		 AbsChord 19 Note 4
+Map	61		 AbsChord 19 Note 5
+Map	62		 AbsChord 20 Note 0
+Map	63		 AbsChord 20 Note 1
+Map	64		 AbsChord 20 Note 2
+Map	65		 AbsChord 20 Note 3
+Map	66		 AbsChord 20 Note 4
+Map	67		 AbsChord 20 Note 5
+Map	68		 AbsChord 21 Note 0
+Map	69		 AbsChord 21 Note 1
+Map	70		 AbsChord 21 Note 2
+Map	71		 AbsChord 21 Note 3
+Map	72		 AbsChord 21 Note 4
+Map	73		 AbsChord 21 Note 5
+Map	74		 AbsChord 22 Note 0
+Map	75		 AbsChord 22 Note 1
+Map	76		 AbsChord 22 Note 2
+Map	77		 AbsChord 22 Note 3
+Map	78		 AbsChord 22 Note 4
+Map	79		 AbsChord 22 Note 5
+Map	80		 AbsChord 23 Note 0
+Map	81		 AbsChord 23 Note 1
+Map	82		 AbsChord 23 Note 2
+Map	83		 AbsChord 23 Note 3
+Map	84		 AbsChord 23 Note 4
+Map	85		 AbsChord 23 Note 5
 
 Scope	DDMF	vst.IIEQ.IIEQPro
 
@@ -2683,10 +2591,6 @@ Map	117		IIEQ2order7
 Map	118		IIEQ2order8
 Map	119		IIEQ2order9
 
-//**********************************************************************************
-//		End of IIEQPro
-//**********************************************************************************
-
 Scope	discoDSP	vst.DPVx.DiscoveryPro64
 
 Map	1		D:Fil_Attack_S
@@ -2809,10 +2713,6 @@ Map	117		C:Misc_Unison
 Map	118		C:Misc_Playmode
 Map	119		C:Misc_Portamen
 
-//**********************************************************************************
-//		End of DiscoveryPro64
-//**********************************************************************************
-
 Scope	DMGAudio	vst.EQic.EQuick
 
 Map	1		Band30 State
@@ -2839,10 +2739,6 @@ Map	21		Band32 Frequency
 Map	22		Band32 Q
 Map	23		Band32 Shift
 Map	24		Band32 Slope
-
-//**********************************************************************************
-//		End of EQuick
-//**********************************************************************************
 
 Scope	DMGAudio	vst.EQiL.EQuilibriumMono
 
@@ -2966,10 +2862,6 @@ Map	117		Band31 Slope
 Map	118		Band31 Phase
 Map	119		Band32 State
 
-//**********************************************************************************
-//		End of EQuilibriumMono
-//**********************************************************************************
-
 Scope	DMGAudio	vst.EQim.EQuickMono
 
 Map	1		Band30 State
@@ -2996,10 +2888,6 @@ Map	21		Band32 Frequency
 Map	22		Band32 Q
 Map	23		Band32 Shift
 Map	24		Band32 Slope
-
-//**********************************************************************************
-//		End of EQuickMono
-//**********************************************************************************
 
 Scope	Dmitry Sches	vst.ThRn.Thorn
 
@@ -3123,10 +3011,6 @@ Map	117		Arp Tie 01-02
 Map	118		Arp Note 02
 Map	119		Arp Velocity 02
 
-//**********************************************************************************
-//		End of Thorn
-//**********************************************************************************
-
 Scope	Dmitry Sches	vst.TntR.Tantra
 
 Map	1		ModMtx04 Depth
@@ -3204,10 +3088,6 @@ Map	72		LayerA Delay Input
 Map	73		LayerB Delay Input
 Map	74		Reverb Input
 
-//**********************************************************************************
-//		End of Tantra
-//**********************************************************************************
-
 Scope	Eiosis	vst.AEq5.Eiosis AirEQ 5_1
 
 Map	1		Band5GainLsRs
@@ -3281,10 +3161,6 @@ Map	68		HighCutShallowSlopeLR
 Map	69		HighCutShallowSlopeLFE
 Map	70		HighCutShallowSlopeLsRs
 Map	71		HighCutShallowSlopeC
-
-//**********************************************************************************
-//		End of Eiosis AirEQ 5_1
-//**********************************************************************************
 
 Scope	Exponential Audio	vst.EXca.Excalibur x64
 
@@ -3408,10 +3284,6 @@ Map	117		Gen2 Fc
 Map	118		Gen2 Src
 Map	119		Gen2PanGen
 
-//**********************************************************************************
-//		End of Excalibur x64
-//**********************************************************************************
-
 Scope	FabFilter	vst.FSa2.FabFilter Saturn (Mono) x64
 
 Map	1		XLFO 2 Step 13 Random
@@ -3533,10 +3405,6 @@ Map	116		XLFO 4 Step 6 Value
 Map	117		XLFO 4 Step 6 Glide
 Map	118		XLFO 4 Step 6 Glide func
 Map	119		XLFO 4 Step 6 Random
-
-//**********************************************************************************
-//		End of FabFilter Saturn (Mono) x64
-//**********************************************************************************
 
 Scope	FabFilter	vst.FSat.FabFilter Saturn x64
 
@@ -3660,10 +3528,6 @@ Map	117		XLFO 4 Step 6 Glide
 Map	118		XLFO 4 Step 6 Glide func
 Map	119		XLFO 4 Step 6 Random
 
-//**********************************************************************************
-//		End of FabFilter Saturn x64
-//**********************************************************************************
-
 Scope	FabFilter	vst.FTm4.FabFilter Timeless 2 (SC) x64
 
 Map	1		XLFO 3 Step 9 Glide func
@@ -3785,10 +3649,6 @@ Map	116		XLFO 5 Step 1 Random
 Map	117		XLFO 5 Step 2 Value
 Map	118		XLFO 5 Step 2 Glide
 Map	119		XLFO 5 Step 2 Glide func
-
-//**********************************************************************************
-//		End of FabFilter Timeless 2 (SC) x64
-//**********************************************************************************
 
 Scope	FabFilter	vst.FTms.FabFilter Timeless 2 x64
 
@@ -3912,10 +3772,6 @@ Map	117		XLFO 5 Step 2 Value
 Map	118		XLFO 5 Step 2 Glide
 Map	119		XLFO 5 Step 2 Glide func
 
-//**********************************************************************************
-//		End of FabFilter Timeless 2 x64
-//**********************************************************************************
-
 Scope	FabFilter	vst.FV22.FabFilter Volcano 2 (Mono) x64
 
 Map	1		XLFO 3 Step 12 Value
@@ -4037,10 +3893,6 @@ Map	116		XLFO 5 Step 5 Glide
 Map	117		XLFO 5 Step 5 Glide func
 Map	118		XLFO 5 Step 5 Random
 Map	119		XLFO 5 Step 6 Value
-
-//**********************************************************************************
-//		End of FabFilter Volcano 2 (Mono) x64
-//**********************************************************************************
 
 Scope	FabFilter	vst.FV23.FabFilter Volcano 2 (Mono SC) x64
 
@@ -4164,10 +4016,6 @@ Map	117		XLFO 5 Step 5 Glide func
 Map	118		XLFO 5 Step 5 Random
 Map	119		XLFO 5 Step 6 Value
 
-//**********************************************************************************
-//		End of FabFilter Volcano 2 (Mono SC) x64
-//**********************************************************************************
-
 Scope	FabFilter	vst.FV24.FabFilter Volcano 2 (SC) x64
 
 Map	1		XLFO 3 Step 12 Value
@@ -4289,10 +4137,6 @@ Map	116		XLFO 5 Step 5 Glide
 Map	117		XLFO 5 Step 5 Glide func
 Map	118		XLFO 5 Step 5 Random
 Map	119		XLFO 5 Step 6 Value
-
-//**********************************************************************************
-//		End of FabFilter Volcano 2 (SC) x64
-//**********************************************************************************
 
 Scope	FabFilter	vst.FV2l.FabFilter Volcano 2 x64
 
@@ -4416,10 +4260,6 @@ Map	117		XLFO 5 Step 5 Glide func
 Map	118		XLFO 5 Step 5 Random
 Map	119		XLFO 5 Step 6 Value
 
-//**********************************************************************************
-//		End of FabFilter Volcano 2 x64
-//**********************************************************************************
-
 Scope	Flux:: - IRCAM	vst.ISP3.SpatV3
 
 Map	1		Src6 Drop Mode
@@ -4542,10 +4382,6 @@ Map	117		Src9 Room Presence
 Map	118		Src9 Run.Reverberance
 Map	119		Src9 Envelopment
 
-//**********************************************************************************
-//		End of SpatV3
-//**********************************************************************************
-
 Scope	Flux:: sound and picture development	vst.Epur.EpureV3
 
 Map	1		Enable Band 8/5
@@ -4566,10 +4402,6 @@ Map	15		Group Select
 Map	16		ToolTips Display time
 Map	17		Enable ToolTips
 Map	18		Morphing Automation
-
-//**********************************************************************************
-//		End of EpureV3
-//**********************************************************************************
 
 Scope	Flux:: sound and picture development	vst.fxAl.AlchemistV3
 
@@ -4693,10 +4525,6 @@ Map	117		Band 5 DComp Peak / Rms
 Map	118		Band 5 DComp Dynamic Rat
 Map	119		Band 5 DComp Invert Dyna
 
-//**********************************************************************************
-//		End of AlchemistV3
-//**********************************************************************************
-
 Scope	g200kg	vst.4hs1.Kamioooka x64
 
 Map	1		M10Knb7
@@ -4733,10 +4561,6 @@ Map	31		MasterVol
 Map	32		MasterPan
 Map	33		Auto
 
-//**********************************************************************************
-//		End of Kamioooka x64
-//**********************************************************************************
-
 Scope	GForce	vst.OOd2.Oddity2_vstwin_x64
 
 Map	1		VCO 1 Tune Fine LFO S&
@@ -4765,7 +4589,7 @@ Map	23		VCO 1 PW ADSR Rel-T
 Map	24		VCO 1 PW ADSR Vel
 Map	25		VCO 1 Src
 Map	26		VCO 2 Tune Coarse
-Map	27		VCO 2 Tune Coarse LFO 
+Map	27		VCO 2 Tune Coarse LFO
 Map	28		VCO 2 Tune Coarse ADSR
 Map	29		VCO 2 Tune Fine
 Map	30		VCO 2 Tune Fine LFO Pe
@@ -4800,7 +4624,7 @@ Map	58		VCO Sub Tune Coarse
 Map	59		VCO Sub Tune Coarse LF
 Map	60		VCO Sub Tune Coarse AD
 Map	61		VCO Sub Tune Fine
-Map	62		VCO Sub Tune Fine LFO 
+Map	62		VCO Sub Tune Fine LFO
 Map	63		VCO Sub Tune Fine ADSR
 Map	64		Noise Type
 Map	65		S/H Lag
@@ -4858,10 +4682,6 @@ Map	116		Mix 1 Level LFO Smooth
 Map	117		Mix 1 Level LFO Resync
 Map	118		Mix 1 Level LFO Delay
 Map	119		Mix 1 Level ADSR Amt
-
-//**********************************************************************************
-//		End of Oddity2_vstwin_x64
-//**********************************************************************************
 
 Scope	GForce	vst.OOdf.Oddity2_vstwin_fx_x64
 
@@ -4891,7 +4711,7 @@ Map	23		VCO 1 PW ADSR Rel-T
 Map	24		VCO 1 PW ADSR Vel
 Map	25		VCO 1 Src
 Map	26		VCO 2 Tune Coarse
-Map	27		VCO 2 Tune Coarse LFO 
+Map	27		VCO 2 Tune Coarse LFO
 Map	28		VCO 2 Tune Coarse ADSR
 Map	29		VCO 2 Tune Fine
 Map	30		VCO 2 Tune Fine LFO Pe
@@ -4926,7 +4746,7 @@ Map	58		VCO Sub Tune Coarse
 Map	59		VCO Sub Tune Coarse LF
 Map	60		VCO Sub Tune Coarse AD
 Map	61		VCO Sub Tune Fine
-Map	62		VCO Sub Tune Fine LFO 
+Map	62		VCO Sub Tune Fine LFO
 Map	63		VCO Sub Tune Fine ADSR
 Map	64		Noise Type
 Map	65		S/H Lag
@@ -4984,10 +4804,6 @@ Map	116		Mix 1 Level LFO Smooth
 Map	117		Mix 1 Level LFO Resync
 Map	118		Mix 1 Level LFO Delay
 Map	119		Mix 1 Level ADSR Amt
-
-//**********************************************************************************
-//		End of Oddity2_vstwin_fx_x64
-//**********************************************************************************
 
 Scope	Glitchmachines	vst.GlPo.Polygon x64
 
@@ -5097,10 +4913,6 @@ Map	103		SubOsc_Solo
 Map	104		Metalizer_To_St
 Map	105		Stutter_To_Ring
 Map	106		HQ_Mode
-
-//**********************************************************************************
-//		End of Polygon x64
-//**********************************************************************************
 
 Scope	graywolf2004	vst.7dWx.BlueARP_x64
 
@@ -5224,10 +5036,6 @@ Map	117		Velocity_43
 Map	118		Velocity_44
 Map	119		Velocity_45
 
-//**********************************************************************************
-//		End of BlueARP_x64
-//**********************************************************************************
-
 Scope	HY-Plugins	vst.Hy14.HY-SEQ16x3_x64
 
 Map	1		SEQ1 Velo Rst
@@ -5247,10 +5055,6 @@ Map	14		SEQ3 Knob Rnd
 Map	15		SEQ3 Knob Rst
 Map	16		SEQ3 OnOff Rnd
 Map	17		SEQ3 OnOff Rst
-
-//**********************************************************************************
-//		End of HY-SEQ16x3_x64
-//**********************************************************************************
 
 Scope	HY-Plugins	vst.Hy16.HY-MPS_x64
 
@@ -5374,10 +5178,6 @@ Map	117		Block7 SeqDir
 Map	118		Block7 Size
 Map	119		Block7 Snapshot
 
-//**********************************************************************************
-//		End of HY-MPS_x64
-//**********************************************************************************
-
 Scope	Image-Line	vst.ASDW.IL DirectWave x64
 
 Map	1		P03: Mod Val 4
@@ -5499,10 +5299,6 @@ Map	116		P04: Amp Env Rel
 Map	117		P04: Mod Env Att 1
 Map	118		P04: Mod Env Dec 1
 Map	119		P04: Mod Env Sus 1
-
-//**********************************************************************************
-//		End of IL DirectWave x64
-//**********************************************************************************
 
 Scope	Image-Line	vst.DMS1.IL Drumaxx
 
@@ -5626,17 +5422,13 @@ Map	117		Ch.9: Mute
 Map	118		Ch.9: Solo
 Map	119		Ch.9: Key
 
-//**********************************************************************************
-//		End of IL Drumaxx
-//**********************************************************************************
-
 Scope	Image-Line	vst.DsLi.IL DrumSynth Live x64
 
 Map	1		F#4 Voice Mode: Mono/Po
 Map	2		F#4 Vel. > Osc1 Frequen
-Map	3		F#4 Vel. > Osc1 Output 
+Map	3		F#4 Vel. > Osc1 Output
 Map	4		F#4 Vel. > Osc2 Frequen
-Map	5		F#4 Vel. > Osc2 Output 
+Map	5		F#4 Vel. > Osc2 Output
 Map	6		F#4 Vel. > Waveform Tun
 Map	7		F#4 Vel. > Tone Filter
 Map	8		F#4 Vel. > Osc1 Harmoni
@@ -5649,11 +5441,11 @@ Map	14		F#4 Morph To Modulation
 Map	15		G4 Patch Level
 Map	16		G4 Patch Pan
 Map	17		G4 Tone Filter: Bass <>
-Map	18		G4 Osc1 Harmonics: Odd 
+Map	18		G4 Osc1 Harmonics: Odd
 Map	19		G4 Osc1 Frequency
 Map	20		G4 Osc1 Sweep Start
 Map	21		G4 Osc1 Sweep Time
-Map	22		G4 Osc1 Envelope Decay 
+Map	22		G4 Osc1 Envelope Decay
 Map	23		G4 Osc1 Output Level
 Map	24		G4 Osc2 Envelope Shape:
 Map	25		G4 Osc2 Frequency
@@ -5663,8 +5455,8 @@ Map	28		G4 Osc2 Decay Time
 Map	29		G4 Osc2 Output Level
 Map	30		G4 Waveform Select
 Map	31		G4 Wave Tuning
-Map	32		G4 Waveform Mix: Noise 
-Map	33		G4 Envelope Re-Trigger 
+Map	32		G4 Waveform Mix: Noise
+Map	33		G4 Envelope Re-Trigger
 Map	34		G4 Envelope Release Tim
 Map	35		G4 Osc1 Phase Invert
 Map	36		G4 DC Click At Note-On
@@ -5706,9 +5498,9 @@ Map	71		G#4 Osc1 Phase Invert
 Map	72		G#4 DC Click At Note-On
 Map	73		G#4 Voice Mode: Mono/Po
 Map	74		G#4 Vel. > Osc1 Frequen
-Map	75		G#4 Vel. > Osc1 Output 
+Map	75		G#4 Vel. > Osc1 Output
 Map	76		G#4 Vel. > Osc2 Frequen
-Map	77		G#4 Vel. > Osc2 Output 
+Map	77		G#4 Vel. > Osc2 Output
 Map	78		G#4 Vel. > Waveform Tun
 Map	79		G#4 Vel. > Tone Filter
 Map	80		G#4 Vel. > Osc1 Harmoni
@@ -5721,11 +5513,11 @@ Map	86		G#4 Morph To Modulation
 Map	87		A4 Patch Level
 Map	88		A4 Patch Pan
 Map	89		A4 Tone Filter: Bass <>
-Map	90		A4 Osc1 Harmonics: Odd 
+Map	90		A4 Osc1 Harmonics: Odd
 Map	91		A4 Osc1 Frequency
 Map	92		A4 Osc1 Sweep Start
 Map	93		A4 Osc1 Sweep Time
-Map	94		A4 Osc1 Envelope Decay 
+Map	94		A4 Osc1 Envelope Decay
 Map	95		A4 Osc1 Output Level
 Map	96		A4 Osc2 Envelope Shape:
 Map	97		A4 Osc2 Frequency
@@ -5735,8 +5527,8 @@ Map	100		A4 Osc2 Decay Time
 Map	101		A4 Osc2 Output Level
 Map	102		A4 Waveform Select
 Map	103		A4 Wave Tuning
-Map	104		A4 Waveform Mix: Noise 
-Map	105		A4 Envelope Re-Trigger 
+Map	104		A4 Waveform Mix: Noise
+Map	105		A4 Envelope Re-Trigger
 Map	106		A4 Envelope Release Tim
 Map	107		A4 Osc1 Phase Invert
 Map	108		A4 DC Click At Note-On
@@ -5751,10 +5543,6 @@ Map	116		A4 Vel. > Osc1 Harmonic
 Map	117		A4 Osc1 Mode: Swept Ton
 Map	118		A4 Osc1 > Osc2 Ring Mod
 Map	119		A4 Morph To
-
-//**********************************************************************************
-//		End of IL DrumSynth Live x64
-//**********************************************************************************
 
 Scope	Image-Line	vst.EQUO.IL EQUO
 
@@ -5878,16 +5666,12 @@ Map	117		Bank 3 send band 9
 Map	118		Bank 3 send band 10
 Map	119		Bank 3 send band 11
 
-//**********************************************************************************
-//		End of IL EQUO
-//**********************************************************************************
-
 Scope	Image-Line	vst.IHmo.IL Harmor
 
 Map	1		B - Filter 2 width
 Map	2		B - Key to filter 2 fre
 Map	3		B - Filter 2 envelope a
-Map	4		B - Filter 2 resonance 
+Map	4		B - Filter 2 resonance
 Map	5		B - Filter 1 & 2 mix (p
 Map	6		B - Pluck decay length
 Map	7		B - Phaser mix
@@ -5924,13 +5708,13 @@ Map	37		B - Volume - Release ti
 Map	38		B - Volume - LFO speed
 Map	39		B - Volume - LFO tensio
 Map	40		B - Volume - LFO skew
-Map	41		B - Volume - LFO pulse 
+Map	41		B - Volume - LFO pulse
 Map	42		B - FX / dry mix - Atta
 Map	43		B - FX / dry mix - Deca
 Map	44		B - FX / dry mix - Sust
 Map	45		B - FX / dry mix - Rele
-Map	46		B - FX / dry mix - LFO 
-Map	47		B - Timbre 1 & 2 mix - 
+Map	46		B - FX / dry mix - LFO
+Map	47		B - Timbre 1 & 2 mix -
 Map	48		B - Filter 1 width - At
 Map	49		B - Filter 1 width - De
 Map	50		B - Filter 1 width - Su
@@ -5941,14 +5725,14 @@ Map	54		B - Filter 2 width - De
 Map	55		B - Filter 2 width - Su
 Map	56		B - Filter 2 width - Re
 Map	57		B - Filter 2 width - LF
-Map	58		B - Filter 1 & 2 mix - 
+Map	58		B - Filter 1 & 2 mix -
 Map	59		B - Pluck amount - Atta
 Map	60		B - Pluck amount - Deca
 Map	61		B - Pluck amount - Sust
 Map	62		B - Pluck amount - Rele
-Map	63		B - Pluck amount - LFO 
+Map	63		B - Pluck amount - LFO
 Map	64		B - Phaser mix - Attack
-Map	65		B - Phaser mix - Decay 
+Map	65		B - Phaser mix - Decay
 Map	66		B - Phaser mix - Sustai
 Map	67		B - Phaser mix - Releas
 Map	68		B - Phaser mix - LFO sp
@@ -5959,7 +5743,7 @@ Map	72		B - Phaser width - Atta
 Map	73		B - Phaser width - Deca
 Map	74		B - Phaser width - Sust
 Map	75		B - Phaser width - Rele
-Map	76		B - Phaser width - LFO 
+Map	76		B - Phaser width - LFO
 Map	77		B - Phaser offset - Att
 Map	78		B - Phaser offset - Dec
 Map	79		B - Phaser offset - Sus
@@ -5970,15 +5754,15 @@ Map	83		B - Harmonizer mix - De
 Map	84		B - Harmonizer mix - Su
 Map	85		B - Harmonizer mix - Re
 Map	86		B - Harmonizer mix - LF
-Map	87		B - Harmonizer width - 
+Map	87		B - Harmonizer width -
 Map	88		B - Harmonic clipping t
 Map	89		B - Prism amount - Atta
 Map	90		B - Prism amount - Deca
 Map	91		B - Prism amount - Sust
 Map	92		B - Prism amount - Rele
-Map	93		B - Prism amount - LFO 
+Map	93		B - Prism amount - LFO
 Map	94		B - Pitch - Attack time
-Map	95		B - Pitch - Decay time 
+Map	95		B - Pitch - Decay time
 Map	96		B - Pitch - Sustain lev
 Map	97		B - Pitch - Release tim
 Map	98		B - Pitch - LFO speed
@@ -5986,7 +5770,7 @@ Map	99		B - Pitch - LFO tension
 Map	100		B - Pitch - LFO skew
 Map	101		B - Pitch - LFO pulse w
 Map	102		B - Image time offset -
-Map	103		B - Image fine speed - 
+Map	103		B - Image fine speed -
 Map	104		B - Panning - Articulat
 Map	105		B - Volume - Articulato
 Map	106		B - FX / dry mix - Arti
@@ -6004,10 +5788,6 @@ Map	117		B - Global envelope dec
 Map	118		B - Global envelope sus
 Map	119		B - Global envelope rel
 
-//**********************************************************************************
-//		End of IL Harmor
-//**********************************************************************************
-
 Scope	Image-Line	vst.Sytr.Sytrus VSTi
 
 Map	1		Effects - Panning - Sus
@@ -6017,7 +5797,7 @@ Map	4		Effects - Volume - Atta
 Map	5		Effects - Volume - Deca
 Map	6		Effects - Volume - Sust
 Map	7		Effects - Volume - Rele
-Map	8		Effects - Volume - LFO 
+Map	8		Effects - Volume - LFO
 Map	9		Main - EQ band 1 level
 Map	10		Main - EQ band 2 level
 Map	11		Main - EQ band 3 level
@@ -6028,10 +5808,6 @@ Map	15		Main - EQ band 1 width
 Map	16		Main - EQ band 2 width
 Map	17		Main - EQ band 3 width
 Map	18		Main - Portamento
-
-//**********************************************************************************
-//		End of Sytrus VSTi
-//**********************************************************************************
 
 Scope	Image-Line	vst.Tox4.Toxic Biohazard
 
@@ -6092,10 +5868,6 @@ Map	54		Phas2 Fdbk
 Map	55		Phas1 Mix
 Map	56		Phas2 Mix
 
-//**********************************************************************************
-//		End of Toxic Biohazard
-//**********************************************************************************
-
 Scope	Inear_Display	vst.inEp.Ephemere
 
 Map	1		B Modulator Freq
@@ -6120,10 +5892,6 @@ Map	19		B Pan
 Map	20		B Solo
 Map	21		B Mute
 Map	22		Output Amplitude
-
-//**********************************************************************************
-//		End of Ephemere
-//**********************************************************************************
 
 Scope	iZotope, Inc.	vst.ZnT2.iZotope Trash 2 x64
 
@@ -6151,7 +5919,7 @@ Map	21		FILT2: Node 1 Env Attac
 Map	22		FILT2: Node 1 Env Relea
 Map	23		FILT2: Node 1 Env Thres
 Map	24		FILT2: Node 1 LFO Freq
-Map	25		FILT2: Node 1 LFO Sync 
+Map	25		FILT2: Node 1 LFO Sync
 Map	26		FILT2: Node 1 LFO Type
 Map	27		FILT2: Node 2 Enable
 Map	28		FILT2: Node 2 Freq
@@ -6167,7 +5935,7 @@ Map	37		FILT2: Node 2 Env Attac
 Map	38		FILT2: Node 2 Env Relea
 Map	39		FILT2: Node 2 Env Thres
 Map	40		FILT2: Node 2 LFO Freq
-Map	41		FILT2: Node 2 LFO Sync 
+Map	41		FILT2: Node 2 LFO Sync
 Map	42		FILT2: Node 2 LFO Type
 Map	43		FILT2: Node 3 Enable
 Map	44		FILT2: Node 3 Gain
@@ -6183,7 +5951,7 @@ Map	53		FILT2: Node 3 Env Attac
 Map	54		FILT2: Node 3 Env Relea
 Map	55		FILT2: Node 3 Env Thres
 Map	56		FILT2: Node 3 LFO Freq
-Map	57		FILT2: Node 3 LFO Sync 
+Map	57		FILT2: Node 3 LFO Sync
 Map	58		FILT2: Node 3 LFO Type
 Map	59		FILT2: Node 4 Enable
 Map	60		FILT2: Node 4 Freq
@@ -6199,7 +5967,7 @@ Map	69		FILT2: Node 4 Env Attac
 Map	70		FILT2: Node 4 Env Relea
 Map	71		FILT2: Node 4 Env Thres
 Map	72		FILT2: Node 4 LFO Freq
-Map	73		FILT2: Node 4 LFO Sync 
+Map	73		FILT2: Node 4 LFO Sync
 Map	74		FILT2: Node 4 LFO Type
 Map	75		FILT2: Node 5 Enable
 Map	76		FILT2: Node 5 Freq
@@ -6215,7 +5983,7 @@ Map	85		FILT2: Node 5 Env Attac
 Map	86		FILT2: Node 5 Env Relea
 Map	87		FILT2: Node 5 Env Thres
 Map	88		FILT2: Node 5 LFO Freq
-Map	89		FILT2: Node 5 LFO Sync 
+Map	89		FILT2: Node 5 LFO Sync
 Map	90		FILT2: Node 5 LFO Type
 Map	91		FILT2: Node 6 Enable
 Map	92		FILT2: Node 6 Freq
@@ -6231,7 +5999,7 @@ Map	101		FILT2: Node 6 Env Attac
 Map	102		FILT2: Node 6 Env Relea
 Map	103		FILT2: Node 6 Env Thres
 Map	104		FILT2: Node 6 LFO Freq
-Map	105		FILT2: Node 6 LFO Sync 
+Map	105		FILT2: Node 6 LFO Sync
 Map	106		FILT2: Node 6 LFO Type
 Map	107		DYN: Module Bypass
 Map	108		DYN: Detection Method
@@ -6246,10 +6014,6 @@ Map	116		DYN: Comp Ratio
 Map	117		DYN: Comp Attack
 Map	118		DYN: Comp Release
 Map	119		DYN: Comp Sidechain Ena
-
-//**********************************************************************************
-//		End of iZotope Trash 2 x64
-//**********************************************************************************
 
 Scope	Kirnu	vst.2u95.Kirnu-Cream_x64
 
@@ -6373,10 +6137,6 @@ Map	117		Octaves T4 P5
 Map	118		Octaves T4 P6
 Map	119		Octaves T4 P7
 
-//**********************************************************************************
-//		End of Kirnu-Cream_x64
-//**********************************************************************************
-
 Scope	KV331 Audio	vst.Sm1i.SynthMasterOne
 
 Map	1		Reverb:Early Late Mix
@@ -6409,10 +6169,6 @@ Map	27		Compressor:Gain
 Map	28		Compressor:Threshold
 Map	29		Compressor:Ratio
 Map	30		Compressor:Knee
-
-//**********************************************************************************
-//		End of SynthMasterOne
-//**********************************************************************************
 
 Scope	KV331 Audio	vst.Sm2f.SynthMaster2FX
 
@@ -6536,10 +6292,6 @@ Map	117		Layer1:Velocity Error
 Map	118		Layer1:Legato
 Map	119		Layer1:Voice Pan
 
-//**********************************************************************************
-//		End of SynthMaster2FX
-//**********************************************************************************
-
 Scope	KV331 Audio	vst.Sm2i.SynthMaster2
 
 Map	1		Microtune:Note 24
@@ -6661,10 +6413,6 @@ Map	116		Layer1:Velocity Spread
 Map	117		Layer1:Velocity Error
 Map	118		Layer1:Legato
 Map	119		Layer1:Voice Pan
-
-//**********************************************************************************
-//		End of SynthMaster2
-//**********************************************************************************
 
 Scope	LAB ONE Recordings	co.uk.labonerecordings.RedQueenEQ
 
@@ -6788,10 +6536,6 @@ Map	117		Band 4 G-SR Shape
 Map	118		Band 4 P-ST Shape
 Map	119		Band 4 P-L Shape
 
-//**********************************************************************************
-//		End of RedQueenEQ
-//**********************************************************************************
-
 Scope	Lectric Panda LLC	com.lectricpanda.Nostromo
 
 Map	1		Polyphony
@@ -6801,10 +6545,6 @@ Map	4		Drift
 Map	5		Ext Audio Level
 Map	6		Ext Audio Filter Select
 Map	7		Rt Note On
-
-//**********************************************************************************
-//		End of Nostromo
-//**********************************************************************************
 
 Scope	Lectric Panda LLC	com.lectricpanda.PSQ1684
 
@@ -6928,10 +6668,6 @@ Map	117		Quantizer Q4 Note 1
 Map	118		Quantizer Q4 Note 2
 Map	119		Quantizer Q4 Note 3
 
-//**********************************************************************************
-//		End of PSQ1684
-//**********************************************************************************
-
 Scope	LinPlug	vst.C2x3.CronoX3Stereo 64
 
 Map	1		Chorus 1 Time Spread
@@ -7048,15 +6784,11 @@ Map	111		StDelay X Sync R
 Map	112		StDelay 1 Link
 Map	113		StDelay 2 Link
 Map	114		StDelay X Link
-Map	115		PingPong Time Cen 1 
-Map	116		PingPong Time Cen 2 
-Map	117		PingPong Time Cen X 
-Map	118		PingPong Sync Cen 1 
-Map	119		PingPong Sync Cen 2 
-
-//**********************************************************************************
-//		End of CronoX3Stereo 64
-//**********************************************************************************
+Map	115		PingPong Time Cen 1
+Map	116		PingPong Time Cen 2
+Map	117		PingPong Time Cen X
+Map	118		PingPong Sync Cen 1
+Map	119		PingPong Sync Cen 2
 
 Scope	LinPlug	vst.Crx3.CronoX3 64
 
@@ -7174,15 +6906,11 @@ Map	111		StDelay X Sync R
 Map	112		StDelay 1 Link
 Map	113		StDelay 2 Link
 Map	114		StDelay X Link
-Map	115		PingPong Time Cen 1 
-Map	116		PingPong Time Cen 2 
-Map	117		PingPong Time Cen X 
-Map	118		PingPong Sync Cen 1 
-Map	119		PingPong Sync Cen 2 
-
-//**********************************************************************************
-//		End of CronoX3 64
-//**********************************************************************************
+Map	115		PingPong Time Cen 1
+Map	116		PingPong Time Cen 2
+Map	117		PingPong Time Cen X
+Map	118		PingPong Sync Cen 1
+Map	119		PingPong Sync Cen 2
 
 Scope	LinPlug	vst.g7U0.Albino3 64
 
@@ -7306,10 +7034,6 @@ Map	117		Phaser 1 Rate
 Map	118		Phaser 2 Rate
 Map	119		Phaser 3 Rate
 
-//**********************************************************************************
-//		End of Albino3 64
-//**********************************************************************************
-
 Scope	LinPlug	vst.LSP1.Spectral
 
 Map	1		Cut 3 Env Sync
@@ -7431,10 +7155,6 @@ Map	116		LFO 2 Wave
 Map	117		LFO 2 Mode
 Map	118		LFO 2 Polar Mode
 Map	119		LFO 2 Delay
-
-//**********************************************************************************
-//		End of Spectral
-//**********************************************************************************
 
 Scope	LiquidSonics	vst.834p.Reverberate-x64
 
@@ -7558,10 +7278,6 @@ Map	117		IR2SM2Tg
 Map	118		IR2SM2MR
 Map	119		IR2SM2MD
 
-//**********************************************************************************
-//		End of Reverberate-x64
-//**********************************************************************************
-
 Scope	Little Endian	vst.LESW.SpectrumWorx
 
 Map	1		M4.P5.LFO.T
@@ -7612,10 +7328,6 @@ Map	45		M5.P5.LFO.on
 Map	46		M5.P5.LFO.T
 Map	47		M5.P5.LFO.ph
 Map	48		M5.P5.LFO.lbnd
-
-//**********************************************************************************
-//		End of SpectrumWorx
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.1157.MMultiBandPhaser x64
 
@@ -7739,10 +7451,6 @@ Map	117		Band3-InvertFeedbaPolari
 Map	118		Band 4 - Saturation
 Map	119		Band4-InvertFeedbaPolari
 
-//**********************************************************************************
-//		End of MMultiBandPhaser x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.44d7.MMultiBandReverb x64
 
 Map	1		Band5-EqualizBand3-Gain3
@@ -7864,10 +7572,6 @@ Map	116		Modula-LFO1-Follow-Phase
 Map	117		Modu-LFO1-Foll-InteSize
 Map	118		Modul-LFO1-Follo-Thres
 Map	119		Modul-LFO1-Envel-ThresOn
-
-//**********************************************************************************
-//		End of MMultiBandReverb x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.gx74.MMultiBandAutopan x64
 
@@ -7991,10 +7695,6 @@ Map	117		Modula-LFO2-Parame4Range
 Map	118		Modula-LFO3-Parame2Value
 Map	119		Modul-LFO3-Param2MaxVa
 
-//**********************************************************************************
-//		End of MMultiBandAutopan x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.gx75.MMultiBandDelay x64
 
 Map	1		Modu-LFO2-Shap-StepSequ
@@ -8117,10 +7817,6 @@ Map	117		Modu-LFO4-Rand-LFOModu
 Map	118		Modula-LFO4-Random-Speed
 Map	119		Modul-LFO4-Rando-Smoot
 
-//**********************************************************************************
-//		End of MMultiBandDelay x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MA%24%24.MStereoProcessor x64
 
 Map	1		MIDNotCon-NotCon20Ena
@@ -8164,10 +7860,6 @@ Map	38		MIDNotCon-NotCon32Val
 Map	39		MIDNotCon-NotCon32Max
 Map	40		PresetTrigger-Previous
 Map	41		Preset trigger - next
-
-//**********************************************************************************
-//		End of MStereoProcessor x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MA%249.MSpectralDynamics x64
 
@@ -8291,10 +7983,6 @@ Map	117		MIDNotCon-NotCon29Val
 Map	118		MIDNotCon-NotCon29Max
 Map	119		MIDNotCon-NotCon30Ena
 
-//**********************************************************************************
-//		End of MSpectralDynamics x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MA%24q.MSpectralDynamicsMini x64
 
 Map	1		MIDIContr-Contr26Inver
@@ -8416,10 +8104,6 @@ Map	116		MIDNotCon-NotCon29Ena
 Map	117		MIDNotCon-NotCon29Val
 Map	118		MIDNotCon-NotCon29Max
 Map	119		MIDNotCon-NotCon30Ena
-
-//**********************************************************************************
-//		End of MSpectralDynamicsMini x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MA%7E2.MAutoEqualizerLinearPhase x64
 
@@ -8543,10 +8227,6 @@ Map	117		MIDNotCon-NotCon20Val
 Map	118		MIDNotCon-NotCon20Max
 Map	119		MIDNotCon-NotCon21Ena
 
-//**********************************************************************************
-//		End of MAutoEqualizerLinearPhase x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAdy.MDynamicsLimiter x64
 
 Map	1		MIDNotCon-NotCon4Val
@@ -8650,10 +8330,6 @@ Map	98		MultiPa-MultiPa1-Enabled
 Map	99		MultiPa-MultiPa2-Enabled
 Map	100		MultiPa-MultiPa3-Enabled
 Map	101		MultiPa-MultiPa4-Enabled
-
-//**********************************************************************************
-//		End of MDynamicsLimiter x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAe%24.MDynamics x64
 
@@ -8777,10 +8453,6 @@ Map	117		MIDNotCon-NotCon29Ena
 Map	118		MIDNotCon-NotCon29Val
 Map	119		MIDNotCon-NotCon29Max
 
-//**********************************************************************************
-//		End of MDynamics x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAE%26.MFlanger x64
 
 Map	1		MIDNotCon-NotCon1Max
@@ -8902,10 +8574,6 @@ Map	116		Shape-StepSequen-Value20
 Map	117		Shape-StepSequen-Value21
 Map	118		Shape-StepSequen-Value22
 Map	119		Shape-StepSequen-Value23
-
-//**********************************************************************************
-//		End of MFlanger x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAe%28.MMultiBandDynamics x64
 
@@ -9029,10 +8697,6 @@ Map	117		Multi-Multi3-Param2MaxVa
 Map	118		Multi-Multi3-Param2Range
 Map	119		Multi-Multi3-Param3Value
 
-//**********************************************************************************
-//		End of MMultiBandDynamics x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAe%29.MMultiBandLimiter x64
 
 Map	1		MIDIContr-Contr21MaxVa
@@ -9154,10 +8818,6 @@ Map	116		MIDNotCon-NotCon20Ena
 Map	117		MIDNotCon-NotCon20Val
 Map	118		MIDNotCon-NotCon20Max
 Map	119		MIDNotCon-NotCon21Ena
-
-//**********************************************************************************
-//		End of MMultiBandLimiter x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAe%60.MMultiBandDynamicsLarge x64
 
@@ -9281,10 +8941,6 @@ Map	117		Band6-CustoShape-Point3Y
 Map	118		Band6-CustShap-Poin3Curv
 Map	119		Band6-CustShap-Poin3Smoo
 
-//**********************************************************************************
-//		End of MMultiBandDynamicsLarge x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAe%7E.MAutoEqualizer x64
 
 Map	1		MIDIContr-Contr21MaxVa
@@ -9406,10 +9062,6 @@ Map	116		MIDNotCon-NotCon20Ena
 Map	117		MIDNotCon-NotCon20Val
 Map	118		MIDNotCon-NotCon20Max
 Map	119		MIDNotCon-NotCon21Ena
-
-//**********************************************************************************
-//		End of MAutoEqualizer x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAe0.MAutopan x64
 
@@ -9533,10 +9185,6 @@ Map	117		Shape-StepSequen-Value30
 Map	118		Shape-StepSequen-Value31
 Map	119		Shape-StepSequen-Value32
 
-//**********************************************************************************
-//		End of MAutopan x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAe1.MCompressor x64
 
 Map	1		MIDNotCon-NotCon4Val
@@ -9639,10 +9287,6 @@ Map	97		MultiPa-MultiPa1-Enabled
 Map	98		MultiPa-MultiPa2-Enabled
 Map	99		MultiPa-MultiPa3-Enabled
 Map	100		MultiPa-MultiPa4-Enabled
-
-//**********************************************************************************
-//		End of MCompressor x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAe3.MEqualizer x64
 
@@ -9766,10 +9410,6 @@ Map	117		MIDNotCon-NotCon32Ena
 Map	118		MIDNotCon-NotCon32Val
 Map	119		MIDNotCon-NotCon32Max
 
-//**********************************************************************************
-//		End of MEqualizer x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAe4.MLimiter x64
 
 Map	1		MIDNotCon-NotCon23Ena
@@ -9804,10 +9444,6 @@ Map	29		MIDNotCon-NotCon32Val
 Map	30		MIDNotCon-NotCon32Max
 Map	31		PresetTrigger-Previous
 Map	32		Preset trigger - next
-
-//**********************************************************************************
-//		End of MLimiter x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAe5.MPhaser x64
 
@@ -9931,10 +9567,6 @@ Map	117		Shape-StepSequen-Value24
 Map	118		Shape-StepSequen-Value25
 Map	119		Shape-StepSequen-Value26
 
-//**********************************************************************************
-//		End of MPhaser x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAe6.MRingModulator x64
 
 Map	1		MIDNotCon-NotCon2Max
@@ -10056,10 +9688,6 @@ Map	116		Osc1Sha-SteSeq-Val23
 Map	117		Osc1Sha-SteSeq-Val24
 Map	118		Osc1Sha-SteSeq-Val25
 Map	119		Osc1Sha-SteSeq-Val26
-
-//**********************************************************************************
-//		End of MRingModulator x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAe7.MTremolo x64
 
@@ -10183,10 +9811,6 @@ Map	117		Shape-StepSequen-Value29
 Map	118		Shape-StepSequen-Value30
 Map	119		Shape-StepSequen-Value31
 
-//**********************************************************************************
-//		End of MTremolo x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAe8.MVibrato x64
 
 Map	1		MIDNotCon-NotCon3Val
@@ -10309,10 +9933,6 @@ Map	117		Shape-StepSequen-Value26
 Map	118		Shape-StepSequen-Value27
 Map	119		Shape-StepSequen-Value28
 
-//**********************************************************************************
-//		End of MVibrato x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAe9.MWaveShaper x64
 
 Map	1		MIDNotCon-NotCon18Max
@@ -10362,10 +9982,6 @@ Map	44		PresetTrigger-Previous
 Map	45		Preset trigger - next
 Map	46		Asymmetric
 Map	47		DC blocker
-
-//**********************************************************************************
-//		End of MWaveShaper x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAea.MStereoExpander x64
 
@@ -10463,10 +10079,6 @@ Map	91		MultiPa-MultiPa1-Enabled
 Map	92		MultiPa-MultiPa2-Enabled
 Map	93		MultiPa-MultiPa3-Enabled
 Map	94		MultiPa-MultiPa4-Enabled
-
-//**********************************************************************************
-//		End of MStereoExpander x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAeF.MFreqShifter x64
 
@@ -10590,10 +10202,6 @@ Map	117		Shape-StepSequen-Value26
 Map	118		Shape-StepSequen-Value27
 Map	119		Shape-StepSequen-Value28
 
-//**********************************************************************************
-//		End of MFreqShifter x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAej.MEqualizerLinearPhase x64
 
 Map	1		MIDIContro-Contro25Range
@@ -10716,10 +10324,6 @@ Map	117		MIDNotCon-NotCon27Val
 Map	118		MIDNotCon-NotCon27Max
 Map	119		MIDNotCon-NotCon28Ena
 
-//**********************************************************************************
-//		End of MEqualizerLinearPhase x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAeQ.MFreeformEqualizer x64
 
 Map	1		MIDNotCon-NotCon19Ena
@@ -10767,10 +10371,6 @@ Map	42		MIDNotCon-NotCon32Max
 Map	43		PresetTrigger-Previous
 Map	44		Preset trigger - next
 Map	45		Smoothness
-
-//**********************************************************************************
-//		End of MFreeformEqualizer x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAer.MReverb x64
 
@@ -10894,10 +10494,6 @@ Map	117		Multi-Multi3-Param2Value
 Map	118		Multi-Multi3-Param2MaxVa
 Map	119		Multi-Multi3-Param2Range
 
-//**********************************************************************************
-//		End of MReverb x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.Magc.MAGC x64
 
 Map	1		MIDNotCon-NotCon25Val
@@ -10925,10 +10521,6 @@ Map	22		MIDNotCon-NotCon32Val
 Map	23		MIDNotCon-NotCon32Max
 Map	24		PresetTrigger-Previous
 Map	25		Preset trigger - next
-
-//**********************************************************************************
-//		End of MAGC x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MAMF.MMultiBandFreqShifter x64
 
@@ -11052,10 +10644,6 @@ Map	117		Modula-LFO1-Follow-Hold
 Map	118		Modu-LFO1-Foll-RMSLeng
 Map	119		Modula-LFO2-Follow-Hold
 
-//**********************************************************************************
-//		End of MMultiBandFreqShifter x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAmp.MAmp x64
 
 Map	1		Modu-LFO2-Shap-Tran-Skew
@@ -11178,10 +10766,6 @@ Map	117		MIDIContro-Contro7MaxVal
 Map	118		MIDIContro-Contro7Range
 Map	119		MIDIContro-Contro7Invert
 
-//**********************************************************************************
-//		End of MAmp x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAmx.MUltraMaximizer x64
 
 Map	1		MIDNotCon-NotCon24Ena
@@ -11215,10 +10799,6 @@ Map	28		PresetTrigger-Previous
 Map	29		Preset trigger - next
 Map	30		Level crossover slope
 Map	31		Level crossover value
-
-//**********************************************************************************
-//		End of MUltraMaximizer x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MauT.MAutoPitch x64
 
@@ -11266,10 +10846,6 @@ Map	41		Detector - Stabilization
 Map	42		Detector - Min frequency
 Map	43		Detector - Max frequency
 
-//**********************************************************************************
-//		End of MAutoPitch x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MAuv.MAutoVolume x64
 
 Map	1		MIDNotCon-NotCon23Val
@@ -11314,10 +10890,6 @@ Map	39		Detector - Low-pass Q
 Map	40		Advanced - Speed mode
 Map	41		Side-chain - Fast
 Map	42		Detecto-ListenToSidecha
-
-//**********************************************************************************
-//		End of MAutoVolume x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MBa%40.MBandPass x64
 
@@ -11441,10 +11013,6 @@ Map	117		MIDNotCon-NotCon8Val
 Map	118		MIDNotCon-NotCon8Max
 Map	119		MIDNotCon-NotCon9Ena
 
-//**********************************************************************************
-//		End of MBandPass x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MBas.MBassador x64
 
 Map	1		Modu-LFO4-Pitc-AutoSpee
@@ -11566,10 +11134,6 @@ Map	116		MIDIContro-Contro2Invert
 Map	117		MIDIContro-Contro3Enable
 Map	118		MIDIContro-Contro3Value
 Map	119		MIDIContro-Contro3MaxVal
-
-//**********************************************************************************
-//		End of MBassador x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MbBF.MMultiBandBitFun x64
 
@@ -11693,10 +11257,6 @@ Map	117		Band 4 - OR - Shift
 Map	118		Band 4 - OR - Rotate
 Map	119		Band 4 - OR - OR 1
 
-//**********************************************************************************
-//		End of MMultiBandBitFun x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MBiF.MBitFun x64
 
 Map	1		MIDIContr-Contr19Enabl
@@ -11818,10 +11378,6 @@ Map	116		MIDNotCon-NotCon16Ena
 Map	117		MIDNotCon-NotCon16Val
 Map	118		MIDNotCon-NotCon16Max
 Map	119		MIDNotCon-NotCon17Ena
-
-//**********************************************************************************
-//		End of MBitFun x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MChM.MChannelMatrix x64
 
@@ -11945,10 +11501,6 @@ Map	117		MIDNotCon-NotCon23Ena
 Map	118		MIDNotCon-NotCon23Val
 Map	119		MIDNotCon-NotCon23Max
 
-//**********************************************************************************
-//		End of MChannelMatrix x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MChr.MCharacter x64
 
 Map	1		Modu-LFO1-Enve-DeteHold
@@ -12071,10 +11623,6 @@ Map	117		Mo-LF2-Sh-StSe-Sh27
 Map	118		Mo-LF2-Sh-StSe-Sh28
 Map	119		Mo-LF2-Sh-StSe-Sh29
 
-//**********************************************************************************
-//		End of MCharacter x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MCmp.MCompare x64
 
 Map	1		MIDNotCon-NotCon23Max
@@ -12111,10 +11659,6 @@ Map	31		Advanced - Follow
 Map	32		Advanced - ALC window
 Map	33		Advanced - Sync window
 Map	34		Advanced-MuteUntilALC
-
-//**********************************************************************************
-//		End of MCompare x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MCom.MComb x64
 
@@ -12238,10 +11782,6 @@ Map	117		Multi-Multi2-Param2Value
 Map	118		Multi-Multi2-Param2MaxVa
 Map	119		Multi-Multi2-Param2Range
 
-//**********************************************************************************
-//		End of MComb x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MDEn.MDrumEnhancer x64
 
 Map	1		Mod-LFO2-Sha-SteSeq-Val1
@@ -12363,10 +11903,6 @@ Map	116		Modu-LFO2-Pitc-ShifSemi
 Map	117		Modu-LFO2-Pitc-ShifCent
 Map	118		Modu-LFO2-Pitc-MinFreq
 Map	119		Modu-LFO2-Pitc-MaxFreq
-
-//**********************************************************************************
-//		End of MDrumEnhancer x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.Mdis.MMultiBandDistortion x64
 
@@ -12490,10 +12026,6 @@ Map	117		Band 3 - Dry/wet
 Map	118		Band 4 - Dry/wet
 Map	119		Band 5 - Dry/wet
 
-//**********************************************************************************
-//		End of MMultiBandDistortion x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MDrL.MDrumLeveler x64
 
 Map	1		Mod-LFO2-Sha-SteSeq-Sha1
@@ -12615,10 +12147,6 @@ Map	116		Mod-LFO3-Sha-SteSeq-Val8
 Map	117		Mod-LFO3-Sha-SteSeq-Val9
 Map	118		Mo-LF3-Sh-StSe-Va10
 Map	119		Mo-LF3-Sh-StSe-Va11
-
-//**********************************************************************************
-//		End of MDrumLeveler x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MdyA.MAutoDynamicEq x64
 
@@ -12742,10 +12270,6 @@ Map	117		Modula-LFO3-Parame2Value
 Map	118		Modul-LFO3-Param2MaxVa
 Map	119		Modula-LFO3-Parame2Range
 
-//**********************************************************************************
-//		End of MAutoDynamicEq x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MdyQ.MDynamicEq x64
 
 Map	1		MIDIContro-Contro25Value
@@ -12868,10 +12392,6 @@ Map	117		MIDNotCon-NotCon26Max
 Map	118		MIDNotCon-NotCon27Ena
 Map	119		MIDNotCon-NotCon27Val
 
-//**********************************************************************************
-//		End of MDynamicEq x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MFAe.MFreeformAnalogEq x64
 
 Map	1		MIDNotCon-NotCon26Ena
@@ -12897,10 +12417,6 @@ Map	20		MIDNotCon-NotCon32Val
 Map	21		MIDNotCon-NotCon32Max
 Map	22		PresetTrigger-Previous
 Map	23		Preset trigger - next
-
-//**********************************************************************************
-//		End of MFreeformAnalogEq x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MFTr.MTransformer x64
 
@@ -13024,10 +12540,6 @@ Map	117		Modula-LFO3-Parame3Value
 Map	118		Modul-LFO3-Param3MaxVa
 Map	119		Modula-LFO3-Parame3Range
 
-//**********************************************************************************
-//		End of MTransformer x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MMBF.MMultiBandFlanger x64
 
 Map	1		Modul-LFO3-Envel-ThresOn
@@ -13149,10 +12661,6 @@ Map	116		Modu-LFO4-Pitc-ShifSemi
 Map	117		Modu-LFO4-Pitc-ShifCent
 Map	118		Modu-LFO4-Pitc-MinFreq
 Map	119		Modu-LFO4-Pitc-MaxFreq
-
-//**********************************************************************************
-//		End of MMultiBandFlanger x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MMBL.MMultiBandSaturator x64
 
@@ -13276,10 +12784,6 @@ Map	117		Modula-LFO2-Parame4Range
 Map	118		Modula-LFO3-Parame2Value
 Map	119		Modul-LFO3-Param2MaxVa
 
-//**********************************************************************************
-//		End of MMultiBandSaturator x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MMch.MMultiBandChorus x64
 
 Map	1		Modul-LFO2-Follo-Attac
@@ -13401,10 +12905,6 @@ Map	116		Modula-LFO4-Random-Speed
 Map	117		Modul-LFO4-Rando-Smoot
 Map	118		Modula-LFO4-Random-Phase
 Map	119		Modu-LFO4-Rand-InteSize
-
-//**********************************************************************************
-//		End of MMultiBandChorus x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MMGr.MMultiBandGranular x64
 
@@ -13528,10 +13028,6 @@ Map	117		Modu-LFO3-Enve-ThreOff
 Map	118		Modu-LFO3-Enve-RMSLeng
 Map	119		Modula-LFO3-Envelo-Phase
 
-//**********************************************************************************
-//		End of MMultiBandGranular x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MMoC.MModernCompressor x64
 
 Map	1		MIDNotCon-NotCon23Val
@@ -13653,10 +13149,6 @@ Map	116		Mo-LF1-Sh-StSe-Sh30
 Map	117		Mo-LF1-Sh-StSe-Sh31
 Map	118		Mo-LF1-Sh-StSe-Sh32
 Map	119		Modu-LFO1-Shap-Tran-Phas
-
-//**********************************************************************************
-//		End of MModernCompressor x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MMor.MMorph x64
 
@@ -13780,10 +13272,6 @@ Map	117		Modu-LFO2-Enve-AttaShap
 Map	118		Modu-LFO2-Enve-DecaShap
 Map	119		Modu-LFO2-Enve-ReleShap
 
-//**********************************************************************************
-//		End of MMorph x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.Mmrm.MMultiBandRingModulator x64
 
 Map	1		Modu-LFO4-Shap-StepSequ
@@ -13905,10 +13393,6 @@ Map	116		Mod-LFO3-Pit-MinRecFre
 Map	117		Mod-LFO3-Pit-MaxRecFre
 Map	118		Mod-LFO4-Pit-MinRecFre
 Map	119		Mod-LFO4-Pit-MaxRecFre
-
-//**********************************************************************************
-//		End of MMultiBandRingModulator x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.Mmtm.MMultiBandTremolo x64
 
@@ -14032,10 +13516,6 @@ Map	117		Modula-LFO2-Parame2Range
 Map	118		Modula-LFO2-Parame3Value
 Map	119		Modul-LFO2-Param3MaxVa
 
-//**********************************************************************************
-//		End of MMultiBandTremolo x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MMtr.MMultiBandTransient x64
 
 Map	1		Modula-LFO3-Random-Speed
@@ -14157,10 +13637,6 @@ Map	116		Multi-Multi1-Param3MaxVa
 Map	117		Multi-Multi1-Param3Range
 Map	118		Multi-Multi1-Param4Value
 Map	119		Multi-Multi1-Param4MaxVa
-
-//**********************************************************************************
-//		End of MMultiBandTransient x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MmVi.MMultiBandVibrato x64
 
@@ -14284,10 +13760,6 @@ Map	117		Modula-LFO1-Follow-Hold
 Map	118		Modu-LFO1-Foll-RMSLeng
 Map	119		Modula-LFO2-Follow-Hold
 
-//**********************************************************************************
-//		End of MMultiBandVibrato x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MmWf.MMultiBandWaveFolder x64
 
 Map	1		Modulators-LFO2-Phase
@@ -14409,10 +13881,6 @@ Map	116		Modul-LFO2-Rando-Smoot
 Map	117		Modula-LFO2-Random-Phase
 Map	118		Modu-LFO2-Rand-InteSize
 Map	119		Modu-LFO2-Pitc-LFOModu
-
-//**********************************************************************************
-//		End of MMultiBandWaveFolder x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MmWs.MMultiBandWaveShaper x64
 
@@ -14536,10 +14004,6 @@ Map	117		Band4-Shape-Point3Smooth
 Map	118		Band4-Shape-Point4X
 Map	119		Band4-Shape-Point4Y
 
-//**********************************************************************************
-//		End of MMultiBandWaveShaper x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MNoi.MNoiseGenerator x64
 
 Map	1		MIDIContro-Contro9Invert
@@ -14661,10 +14125,6 @@ Map	116		MIDIContr-Contr32Inver
 Map	117		MIDNotCon-NotCon1Ena
 Map	118		MIDNotCon-NotCon1Val
 Map	119		MIDNotCon-NotCon1Max
-
-//**********************************************************************************
-//		End of MNoiseGenerator x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MOs%2B.MOscillator x64
 
@@ -14788,10 +14248,6 @@ Map	117		MIDIContr-Contr31MaxVa
 Map	118		MIDIContro-Contro31Range
 Map	119		MIDIContr-Contr31Inver
 
-//**********************************************************************************
-//		End of MOscillator x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MPha.MPhatik x64
 
 Map	1		Modu-LFO4-Pitc-ShifOcta
@@ -14913,10 +14369,6 @@ Map	116		MIDIContro-Contro1Invert
 Map	117		MIDIContro-Contro2Enable
 Map	118		MIDIContro-Contro2Value
 Map	119		MIDIContro-Contro2MaxVal
-
-//**********************************************************************************
-//		End of MPhatik x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MPoS.MPolySaturator x64
 
@@ -15040,10 +14492,6 @@ Map	117		Mo-LF3-Sh-StSe-Va23
 Map	118		Mo-LF3-Sh-StSe-Va24
 Map	119		Mo-LF3-Sh-StSe-Va25
 
-//**********************************************************************************
-//		End of MPolySaturator x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MRat.MRatio x64
 
 Map	1		MIDIContro-Contro15Value
@@ -15165,10 +14613,6 @@ Map	116		MIDNotCon-NotCon9Max
 Map	117		MIDNotCon-NotCon10Ena
 Map	118		MIDNotCon-NotCon10Val
 Map	119		MIDNotCon-NotCon10Max
-
-//**********************************************************************************
-//		End of MRatio x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MRh%21.MMultiBandRhythmizer x64
 
@@ -15292,10 +14736,6 @@ Map	117		Band1-Time1-Point4X
 Map	118		Band1-Time1-Point4Y
 Map	119		Band1-Time1-Point4Curvat
 
-//**********************************************************************************
-//		End of MMultiBandRhythmizer x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MRhy.MRhythmizer x64
 
 Map	1		Modu-LFO1-Pitc-DeteAccu
@@ -15417,10 +14857,6 @@ Map	116		Volume 1 - Point 5 X
 Map	117		Volume 1 - Point 5 Y
 Map	118		Volume1-Point5Curvature
 Map	119		Volume1-Point5Smoothness
-
-//**********************************************************************************
-//		End of MRhythmizer x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MRot.MRotary x64
 
@@ -15544,10 +14980,6 @@ Map	117		Mod-LFO2-Sha-SteSeq-Val4
 Map	118		Mod-LFO2-Sha-SteSeq-Val5
 Map	119		Mod-LFO2-Sha-SteSeq-Val6
 
-//**********************************************************************************
-//		End of MRotary x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MStG.MStereoGenerator x64
 
 Map	1		Modu-LFO1-Pitc-ShifOcta
@@ -15669,10 +15101,6 @@ Map	116		Multi-Multi2-Param4MaxVa
 Map	117		Multi-Multi2-Param4Range
 Map	118		Multi-Multi3-Param2Value
 Map	119		Multi-Multi3-Param2MaxVa
-
-//**********************************************************************************
-//		End of MStereoGenerator x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MStS.MStereoSpread x64
 
@@ -15796,10 +15224,6 @@ Map	117		MIDIContro-Contro3MaxVal
 Map	118		MIDIContro-Contro3Range
 Map	119		MIDIContro-Contro3Invert
 
-//**********************************************************************************
-//		End of MStereoSpread x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MTra.MTransient x64
 
 Map	1		MIDIContr-Contr31MaxVa
@@ -15921,10 +15345,6 @@ Map	116		MultiPa-MultiPa1-Enabled
 Map	117		MultiPa-MultiPa2-Enabled
 Map	118		MultiPa-MultiPa3-Enabled
 Map	119		MultiPa-MultiPa4-Enabled
-
-//**********************************************************************************
-//		End of MTransient x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MUni.MUnison x64
 
@@ -16048,10 +15468,6 @@ Map	117		Modul-LFO3-Param3MaxVa
 Map	118		Modula-LFO3-Parame3Range
 Map	119		Modula-LFO3-Parame4Value
 
-//**********************************************************************************
-//		End of MUnison x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.Muti.MUtility x64
 
 Map	1		MIDNotCon-NotCon16Max
@@ -16110,10 +15526,6 @@ Map	53		Basic-SilenWhenPlaybIsON
 Map	54		Basi-SileWhenPlayIsOFF
 Map	55		Basic - Volume left
 Map	56		Basic - Volume right
-
-//**********************************************************************************
-//		End of MUtility x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MVoc.MVocoder x64
 
@@ -16237,10 +15649,6 @@ Map	117		GraphAttack-Point3Curvat
 Map	118		GraphAttack-Point3Smooth
 Map	119		Graph Attack - Point 4 X
 
-//**********************************************************************************
-//		End of MVocoder x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MVRo.MVintageRotary x64
 
 Map	1		Mo-LF2-Sh-StSe-Sh12
@@ -16363,10 +15771,6 @@ Map	117		MIDIContro-Contro3MaxVal
 Map	118		MIDIContro-Contro3Range
 Map	119		MIDIContro-Contro3Invert
 
-//**********************************************************************************
-//		End of MVintageRotary x64
-//**********************************************************************************
-
 Scope	MeldaProduction	vst.MWaF.MWaveFolder x64
 
 Map	1		MIDNotCon-NotCon24Ena
@@ -16401,10 +15805,6 @@ Map	29		Preset trigger - next
 Map	30		Pre HP
 Map	31		Pre LP
 Map	32		Post LP
-
-//**********************************************************************************
-//		End of MWaveFolder x64
-//**********************************************************************************
 
 Scope	MeldaProduction	vst.MWob.MWobbler x64
 
@@ -16528,10 +15928,6 @@ Map	117		Multi-Multi2-Param2Value
 Map	118		Multi-Multi2-Param2MaxVa
 Map	119		Multi-Multi2-Param2Range
 
-//**********************************************************************************
-//		End of MWobbler x64
-//**********************************************************************************
-
 Scope	Monoplugs	vst.moni.Monique
 
 Map	1		EQ5 ENV Sus
@@ -16633,10 +16029,6 @@ Map	96		GLOB SpeedSync
 Map	97		GLOB SpeedBPM
 Map	98		GLOB OctaveOff
 Map	99		GLOB ProgNote
-
-//**********************************************************************************
-//		End of Monique
-//**********************************************************************************
 
 Scope	Native Instruments GmbH	vst.Ni%868.FM8 FX
 
@@ -16760,10 +16152,6 @@ Map	117		FM-Mtrx E->B BR
 Map	118		FM-Mtrx E->B TR
 Map	119		FM-Mtrx E->B TL
 
-//**********************************************************************************
-//		End of FM8 FX
-//**********************************************************************************
-
 Scope	Native Instruments GmbH	vst.NR6j.Reaktor 6 FX
 
 Map	1		P0239
@@ -16885,10 +16273,6 @@ Map	116		P0354
 Map	117		P0355
 Map	118		P0356
 Map	119		P0357
-
-//**********************************************************************************
-//		End of Reaktor 6 FX
-//**********************************************************************************
 
 Scope	Nicky Romero	vst.CNKS.Kickstart x64
 
@@ -17012,10 +16396,6 @@ Map	117		Wave6.15 Type
 Map	118		Wave6.16 X
 Map	119		Wave6.16 Y
 
-//**********************************************************************************
-//		End of Kickstart x64
-//**********************************************************************************
-
 Scope	Nomad Factory	vst.MGFX.MFX-MAGMA x64
 
 Map	1		Param #238
@@ -17137,10 +16517,6 @@ Map	116		Param #353
 Map	117		Param #354
 Map	118		Param #355
 Map	119		Param #356
-
-//**********************************************************************************
-//		End of MFX-MAGMA x64
-//**********************************************************************************
 
 Scope	NUGEN Audio	vst.ST%B00.NUGEN SEQ-S_7_1 64bit
 
@@ -17264,10 +16640,6 @@ Map	117		Gain A118
 Map	118		Gain B118
 Map	119		Gain C118
 
-//**********************************************************************************
-//		End of NUGEN SEQ-S_7_1 64bit
-//**********************************************************************************
-
 Scope	NUGEN Audio	vst.ST00.NUGEN SEQ-ST 64bit
 
 Map	1		Gain B79
@@ -17389,10 +16761,6 @@ Map	116		Gain C117
 Map	117		Gain A118
 Map	118		Gain B118
 Map	119		Gain C118
-
-//**********************************************************************************
-//		End of NUGEN SEQ-ST 64bit
-//**********************************************************************************
 
 Scope	NUGEN Audio	vst.STp0.NUGEN SEQ-S_5_1 64bit
 
@@ -17516,10 +16884,6 @@ Map	117		Gain A118
 Map	118		Gain B118
 Map	119		Gain C118
 
-//**********************************************************************************
-//		End of NUGEN SEQ-S_5_1 64bit
-//**********************************************************************************
-
 Scope	Overloud	vst.TH-3.TH3-64
 
 Map	1		Randall LynchBox Ultra M
@@ -17543,7 +16907,7 @@ Map	18		Bassface '59 (US) PRESEN
 Map	19		Bassface '59 (US) VOLUME
 Map	20		Bassface '59 (US) LEVEL
 Map	21		Darkface '65 (US) Power
-Map	22		Darkface '65 (US) 
+Map	22		Darkface '65 (US)
 Map	23		Darkface '65 (US) VOLUME
 Map	24		Darkface '65 (US) BASS
 Map	25		Darkface '65 (US) MIDDLE
@@ -17619,10 +16983,10 @@ Map	94		Bass SuperTube VR midfre
 Map	95		Bass SuperTube VR bass
 Map	96		Bass SuperTube VR level
 Map	97		Bass SuperTube VR bright
-Map	98		Bass SuperTube VR ultra 
+Map	98		Bass SuperTube VR ultra
 Map	99		Bass SuperTube CL Power
 Map	100		Bass SuperTube CL Gain
-Map	101		Bass SuperTube CL Ultra 
+Map	101		Bass SuperTube CL Ultra
 Map	102		Bass SuperTube CL Bass
 Map	103		Bass SuperTube CL Midran
 Map	104		Bass SuperTube CL Freque
@@ -17641,10 +17005,6 @@ Map	116		Marcus II Clean BASS
 Map	117		Marcus II Clean MIDDLE
 Map	118		Marcus II Clean TREBLE
 Map	119		Marcus II Clean VOLUME
-
-//**********************************************************************************
-//		End of TH3-64
-//**********************************************************************************
 
 Scope	Plogue Art et Technologie, Inc	vst.PLGQ.sforzando VST_x64
 
@@ -17768,10 +17128,6 @@ Map	117		p354
 Map	118		p355
 Map	119		p356
 
-//**********************************************************************************
-//		End of sforzando VST_x64
-//**********************************************************************************
-
 Scope	Propellerhead Software	se.propellerheads.Europa
 
 Map	1		Osc2 Filter
@@ -17813,10 +17169,6 @@ Map	36		Click Timer
 Map	37		Filter Dist
 Map	38		Always Render
 Map	39		NoteOn
-
-//**********************************************************************************
-//		End of Europa
-//**********************************************************************************
 
 Scope	Propellerheads	Kong Drum Designer
 
@@ -17940,10 +17292,6 @@ Map	117		Drum 12 FX1 Enable Hit 2
 Map	118		Drum 12 FX1 Enable Hit 3
 Map	119		Drum 12 FX1 Enable Hit 4
 
-//**********************************************************************************
-//		End of Kong Drum Designer
-//**********************************************************************************
-
 Scope	Propellerheads	Redrum Drum Computer
 
 Map	1		Drum 1 Toggle Step 13
@@ -18066,10 +17414,6 @@ Map	117		Drum 9 Toggle Step 1
 Map	118		Drum 9 Toggle Step 2
 Map	119		Drum 9 Toggle Step 3
 
-//**********************************************************************************
-//		End of Redrum Drum Computer
-//**********************************************************************************
-
 Scope	Propellerheads	Thor Polysonic Synthesizer
 
 Map	1		Pattern Step Note 1
@@ -18168,10 +17512,6 @@ Map	93		Pattern Step Curve 2 13
 Map	94		Pattern Step Curve 2 14
 Map	95		Pattern Step Curve 2 15
 Map	96		Pattern Step Curve 2 16
-
-//**********************************************************************************
-//		End of Thor Polysonic Synthesizer
-//**********************************************************************************
 
 Scope	Reveal Sound	com.revealSound.ReSpire
 
@@ -18295,10 +17635,6 @@ Map	117		Slot6 Amt2
 Map	118		Slot6 Target2
 Map	119		Slot6 Amt3
 
-//**********************************************************************************
-//		End of ReSpire
-//**********************************************************************************
-
 Scope	Reveal Sound	vst.Spir.Spire
 
 Map	1		lfo4_target2
@@ -18421,10 +17757,6 @@ Map	117		slot7_Amt4
 Map	118		slot7_Trg4
 Map	119		slot8_Src1
 
-//**********************************************************************************
-//		End of Spire
-//**********************************************************************************
-
 Scope	Rob Papen	com.robpapen.Go2
 
 Map	1		Arp Step Slide 16
@@ -18460,10 +17792,6 @@ Map	30		Arp Step Chord 13
 Map	31		Arp Step Chord 14
 Map	32		Arp Step Chord 15
 Map	33		Arp Step Chord 16
-
-//**********************************************************************************
-//		End of Go2
-//**********************************************************************************
 
 Scope	Rob Papen	com.robpapen.PredatorRE
 
@@ -18587,10 +17915,6 @@ Map	117		Fx 1 None 8
 Map	118		Mono Delay 1 Length
 Map	119		Mono Delay 1 Feed
 
-//**********************************************************************************
-//		End of PredatorRE
-//**********************************************************************************
-
 Scope	Rob Papen	com.robpapen.Quad
 
 Map	1		Widener Lowpass Filter
@@ -18621,10 +17945,6 @@ Map	25		Reverb Lowpass Filter
 Map	26		Reverb Highpass Filter
 Map	27		Reverb Spread
 Map	28		Reverb Length
-
-//**********************************************************************************
-//		End of Quad
-//**********************************************************************************
 
 Scope	Rob Papen	com.robpapen.RGRE
 
@@ -18748,10 +18068,6 @@ Map	117		FX3 Stereo Delay Left Delay
 Map	118		FX3 Stereo Delay Right Delay
 Map	119		FX3 Stereo Delay Feedback
 
-//**********************************************************************************
-//		End of RGRE
-//**********************************************************************************
-
 Scope	Rob Papen	com.robpapen.SubBoomBassRE
 
 Map	1		Flanger 1 Feedback
@@ -18873,10 +18189,6 @@ Map	116		Stereo Delay 2 Highpass Filter
 Map	117		Stereo Delay 2 Mod Amount
 Map	118		Stereo Delay 2 Equal Feed
 Map	119		Comb Filter 2 Frequency 1
-
-//**********************************************************************************
-//		End of SubBoomBassRE
-//**********************************************************************************
 
 Scope	Rob Papen	com.robpapen.Vecto
 
@@ -19000,10 +18312,6 @@ Map	117		Mod 3 Destination
 Map	118		Mod 4 Destination
 Map	119		Mod 5 Destination
 
-//**********************************************************************************
-//		End of Vecto
-//**********************************************************************************
-
 Scope	Rob Papen	vst.Blu2.Blue2
 
 Map	1		Filter A Env Pre-Delay T
@@ -19114,8 +18422,8 @@ Map	105		Osc C Env Velocity > Spe
 Map	106		Osc D Env Velocity > Spe
 Map	107		Osc E Env Velocity > Spe
 Map	108		Osc F Env Velocity > Spe
-Map	109		Filter A Env Velocity > 
-Map	110		Filter B Env Velocity > 
+Map	109		Filter A Env Velocity >
+Map	110		Filter B Env Velocity >
 Map	111		Volume Env Retrigger Tim
 Map	112		Osc A Env Retrigger Time
 Map	113		Osc B Env Retrigger Time
@@ -19125,10 +18433,6 @@ Map	116		Osc E Env Retrigger Time
 Map	117		Osc F Env Retrigger Time
 Map	118		Filter A Env Retrigger T
 Map	119		Filter B Env Retrigger T
-
-//**********************************************************************************
-//		End of Blue2
-//**********************************************************************************
 
 Scope	Rob Papen	vst.G2RP.Go2
 
@@ -19252,10 +18556,6 @@ Map	117		Arp Step 13 Slide
 Map	118		Arp Step 14 Slide
 Map	119		Arp Step 15 Slide
 
-//**********************************************************************************
-//		End of Go2
-//**********************************************************************************
-
 Scope	Rob Papen	vst.PBDm.Punch-BD
 
 Map	1		BD 2 Mode
@@ -19377,10 +18677,6 @@ Map	116		BD 3 Filter LFO Tempo Sy
 Map	117		BD 4 Filter LFO Tempo Sy
 Map	118		BD 5 Filter LFO Tempo Sy
 Map	119		BD 6 Filter LFO Tempo Sy
-
-//**********************************************************************************
-//		End of Punch-BD
-//**********************************************************************************
 
 Scope	Rob Papen	vst.PBs2.SubBoomBass2
 
@@ -19504,10 +18800,6 @@ Map	117		Seq B Step 13 Tied
 Map	118		Seq B Step 14 Tied
 Map	119		Seq B Step 15 Tied
 
-//**********************************************************************************
-//		End of SubBoomBass2
-//**********************************************************************************
-
 Scope	Rob Papen	vst.Prd2.Predator2
 
 Map	1		Envelope 3 Mod Source
@@ -19630,10 +18922,6 @@ Map	117		Mod Slot 18 Source
 Map	118		Mod Slot 19 Source
 Map	119		Mod Slot 20 Source
 
-//**********************************************************************************
-//		End of Predator2
-//**********************************************************************************
-
 Scope	Rob Papen	vst.Prsm.Prisma
 
 Map	1		Layer1 FX2 Send
@@ -19645,9 +18933,9 @@ Map	6		Layer1 BankSele
 Map	7		Layer1 PitchWhe
 Map	8		Layer1 ModWheel
 Map	9		Layer1 AfterTou
-Map	10		Layer1 Sustain 
+Map	10		Layer1 Sustain
 Map	11		Layer1 User Con
-Map	12		Layer1 Midi CC 
+Map	12		Layer1 Midi CC
 Map	13		Layer1 253
 Map	14		Layer1 254
 Map	15		Layer1 255
@@ -19755,10 +19043,6 @@ Map	116		Layer1 358
 Map	117		Layer1 359
 Map	118		Layer1 360
 Map	119		Layer1 361
-
-//**********************************************************************************
-//		End of Prisma
-//**********************************************************************************
 
 Scope	Rob Papen	vst.RpDL.RP-Delay x64
 
@@ -19882,10 +19166,6 @@ Map	117		EQ
 Map	118		Sequencer Syncing
 Map	119		Stereo / Mono Mix
 
-//**********************************************************************************
-//		End of RP-Delay x64
-//**********************************************************************************
-
 Scope	Rob Papen	vst.RPOb.Blade
 
 Map	1		Harm Mod 1 > Harm Vol
@@ -19912,8 +19192,8 @@ Map	21		Velocity > Harm Shift
 Map	22		Velocity > Harm Vol
 Map	23		Velocity > Filter Freq
 Map	24		Pitch LFO
-Map	25		Distortion 
-Map	26		Filter 
+Map	25		Distortion
+Map	26		Filter
 Map	27		FX 1
 Map	28		FX 2
 Map	29		XY
@@ -19935,12 +19215,12 @@ Map	44		X > Harm Volume
 Map	45		X > Filter Frequency
 Map	46		Y > Even/Odd
 Map	47		Y > Harm Volume
-Map	48		P305 
-Map	49		P306 
-Map	50		P307 
-Map	51		P308 
-Map	52		P309 
-Map	53		P310 
+Map	48		P305
+Map	49		P306
+Map	50		P307
+Map	51		P308
+Map	52		P309
+Map	53		P310
 Map	54		Velocity > Even/Odd
 Map	55		Velocity > Harm Volume
 Map	56		Harm Env > Even/Odd
@@ -19949,12 +19229,12 @@ Map	58		Harm LFO > Even/Odd
 Map	59		Harm LFO > Harm Volume
 Map	60		Harm Mod 1 > Even/Odd
 Map	61		Harm Mod 1 > Harm Volume
-Map	62		P351 
-Map	63		P352 
+Map	62		P351
+Map	63		P352
 Map	64		Harm Mod 2 > Even/Odd
 Map	65		Harm Mod 2 > Harm Volume
-Map	66		P363 
-Map	67		P364 
+Map	66		P363
+Map	67		P364
 Map	68		Pitch Envelope
 Map	69		Pitch LFO Speed Mod Amou
 Map	70		Pitch LFO Speed Mod Sour
@@ -19970,7 +19250,7 @@ Map	79		Arp Speed
 Map	80		Arp Sync
 Map	81		Arp Latch
 Map	82		Arp Key Entry
-Map	83		P380 
+Map	83		P380
 Map	84		Arp Step 1 - On/Off
 Map	85		Arp Step 2 - On/Off
 Map	86		Arp Step 3 - On/Off
@@ -20007,10 +19287,6 @@ Map	116		Arp Step 1 - Velocity
 Map	117		Arp Step 2 - Velocity
 Map	118		Arp Step 3 - Velocity
 Map	119		Arp Step 4 - Velocity
-
-//**********************************************************************************
-//		End of Blade
-//**********************************************************************************
 
 Scope	Rob Papen	vst.RPRw.Raw
 
@@ -20099,10 +19375,6 @@ Map	82		Arp Step 16 Free
 Map	83		Post EQ Filter Mode
 Map	84		Post EQ Low Pass Filter
 Map	85		Post EQ High Pass Filter
-
-//**********************************************************************************
-//		End of Raw
-//**********************************************************************************
 
 Scope	Rob Papen	vst.Vect.Vecto
 
@@ -20226,19 +19498,11 @@ Map	117		Reverb Length
 Map	118		Reverb Damp
 Map	119		Reverb Spread
 
-//**********************************************************************************
-//		End of Vecto
-//**********************************************************************************
-
 Scope	Robotic Bean	com.roboticbean.Step
 
 Map	1		Step 30 Gate Width
 Map	2		Step 31 Gate Width
 Map	3		Step 32 Gate Width
-
-//**********************************************************************************
-//		End of Step
-//**********************************************************************************
 
 Scope	Roland	vst.scva.SOUND Canvas VA
 
@@ -20362,10 +19626,6 @@ Map	117		Drum Key-1 79 (G5) Pitch
 Map	118		Drum Key-1 80 (G#5) Pitc
 Map	119		Drum Key-1 81 (A5) Pitch
 
-//**********************************************************************************
-//		End of SOUND Canvas VA
-//**********************************************************************************
-
 Scope	Sononics	com.sononics.Revival
 
 Map	1		Secondary Mod1 Enable 10
@@ -20477,10 +19737,6 @@ Map	106		Rotator Speed Switch
 Map	107		Rotator Brake Switch
 Map	108		FX Limiter Threshold
 
-//**********************************************************************************
-//		End of Revival
-//**********************************************************************************
-
 Scope	Sound Guru	vst.Mngl.Mangle64
 
 Map	1		s8 Position
@@ -20497,19 +19753,19 @@ Map	11		s8 Grain releas
 Map	12		s8 Grain sustai
 Map	13		s8 Grain length
 Map	14		s8 Voice attack
-Map	15		s8 Voice decay 
+Map	15		s8 Voice decay
 Map	16		s8 Voice releas
 Map	17		s8 Voice sustai
 Map	18		s8 Voice veloci
 Map	19		s8 LFO1 rate
 Map	20		s8 LFO2 rate
-Map	21		s8 Seq1 grains 
+Map	21		s8 Seq1 grains
 Map	22		s8 Seq1 time pe
-Map	23		s8 Seq2 grains 
+Map	23		s8 Seq2 grains
 Map	24		s8 Seq2 time pe
-Map	25		s8 Seq3 grains 
+Map	25		s8 Seq3 grains
 Map	26		s8 Seq3 time pe
-Map	27		s8 Seq4 grains 
+Map	27		s8 Seq4 grains
 Map	28		s8 Seq4 time pe
 Map	29		s8 Macro knob 1
 Map	30		s8 Macro knob 2
@@ -20517,10 +19773,6 @@ Map	31		s8 Macro knob 3
 Map	32		s8 Macro knob 4
 Map	33		s8 Loop speed
 Map	34		s8 Loop amount
-
-//**********************************************************************************
-//		End of Mangle64
-//**********************************************************************************
 
 Scope	SPC Plugins	vst.SPCa.ArcSyn
 
@@ -20644,10 +19896,6 @@ Map	117		L3-Shp10
 Map	118		L4-Shp10
 Map	119		L5-Shp10
 
-//**********************************************************************************
-//		End of ArcSyn
-//**********************************************************************************
-
 Scope	Spectrasonics	vst.Ambr.Omnisphere
 
 Map	1		P238
@@ -20769,10 +20017,6 @@ Map	116		P353
 Map	117		P354
 Map	118		P355
 Map	119		P356
-
-//**********************************************************************************
-//		End of Omnisphere
-//**********************************************************************************
 
 Scope	Steinberg Media Technologies	vst.HSSE.HALion Sonic SE
 
@@ -20896,10 +20140,6 @@ Map	117		Automation 50
 Map	118		Automation 51
 Map	119		Automation 52
 
-//**********************************************************************************
-//		End of HALion Sonic SE
-//**********************************************************************************
-
 Scope	Studio Corbach	nl.studiocorbach.MixfoodAmbiNature
 
 Map	1		Reverb Damping Generator 5
@@ -21022,10 +20262,6 @@ Map	117		Reverb Mix Generator 8
 Map	118		Reverb Low Cut Generator 8
 Map	119		Reverb High Cut Generator 8
 
-//**********************************************************************************
-//		End of MixfoodAmbiNature
-//**********************************************************************************
-
 Scope	Studio Corbach	nl.studiocorbach.MixfoodOrange
 
 Map	1		LFO 1 Filter Cutoff Smooth Osc 3
@@ -21043,10 +20279,6 @@ Map	12		LFO 2 Filter Cutoff Depth Osc 3
 Map	13		LFO 2 Filter Cutoff Smooth Osc 3
 Map	14		LFO 2 Filter Resonance Smooth Osc 3
 Map	15		LFO 2 Filter Resonance Depth Osc 3
-
-//**********************************************************************************
-//		End of MixfoodOrange
-//**********************************************************************************
 
 Scope	Studio Corbach	nl.studiocorbach.MixfoodReMix
 
@@ -21170,10 +20402,6 @@ Map	117		Reverb Damp Osc2
 Map	118		Envelope1 Attack Osc2
 Map	119		Envelope1 Decay Osc2
 
-//**********************************************************************************
-//		End of MixfoodReMix
-//**********************************************************************************
-
 Scope	Studio Corbach	nl.studiocorbach.MixfoodWT4
 
 Map	1		Delay Time Linear Osc1
@@ -21295,10 +20523,6 @@ Map	116		Lfo1 Sync On/Off Osc2
 Map	117		Lfo1 Retrigger On/Off Osc2
 Map	118		Lfo2 Waveform Osc2
 Map	119		Lfo2 Rate Linearear Osc2
-
-//**********************************************************************************
-//		End of MixfoodWT4
-//**********************************************************************************
 
 Scope	Sugar Bytes	vst.sba2.Artillery2 x64
 
@@ -21422,10 +20646,6 @@ Map	117		unused354
 Map	118		unused355
 Map	119		unused356
 
-//**********************************************************************************
-//		End of Artillery2 x64
-//**********************************************************************************
-
 Scope	Sugar Bytes	vst.sbtu.Turnado x64
 
 Map	1		FX8 EF Attack KA
@@ -21442,10 +20662,6 @@ Map	11		FX5 FX Gain
 Map	12		FX6 FX Gain
 Map	13		FX7 FX Gain
 Map	14		FX8 FX Gain
-
-//**********************************************************************************
-//		End of Turnado x64
-//**********************************************************************************
 
 Scope	Synapse Audio	vst.TxIc.Toxic2 x64
 
@@ -21466,10 +20682,6 @@ Map	14		Osc6: FM 5
 Map	15		Osc6: FM 6
 Map	16		Osc6: lfo 1
 Map	17		Osc6: lfo 2
-
-//**********************************************************************************
-//		End of Toxic2 x64
-//**********************************************************************************
 
 Scope	Tone2.com	vst.T2IC.IcarusX64
 
@@ -21593,10 +20805,6 @@ Map	117		Arp16Not
 Map	118		Arp17Not
 Map	119		Arp18Not
 
-//**********************************************************************************
-//		End of IcarusX64
-//**********************************************************************************
-
 Scope	Tracktion	vst.DDes.#TDelay Studio (64-bit)
 
 Map	1		T19: Low Cut
@@ -21630,10 +20838,6 @@ Map	28		FB Level
 Map	29		FB Tap
 Map	30		Wet
 Map	31		Dry
-
-//**********************************************************************************
-//		End of #TDelay Studio (64-bit)
-//**********************************************************************************
 
 Scope	Two Notes Audio Engineering	vst.PI3R.Torpedo Wall Of Sound (x64)
 
@@ -21757,10 +20961,6 @@ Map	117		Exc Low Gain 6
 Map	118		Comp OnOff 6
 Map	119		Comp Ratio 6
 
-//**********************************************************************************
-//		End of Torpedo Wall Of Sound (x64)
-//**********************************************************************************
-
 Scope	u-he	vst.SMHZ.ZebraHZ(x64)
 
 Map	1		OSC3: SyncModDepth
@@ -21882,10 +21082,6 @@ Map	116		D-VCF1: KeyFollow
 Map	117		D-VCF1: FilterFM
 Map	118		D-VCF1: ResModSrc
 Map	119		D-VCF1: ResModDepth
-
-//**********************************************************************************
-//		End of ZebraHZ(x64)
-//**********************************************************************************
 
 Scope	u-he	vst.SMY2.Zebrify(x64)
 
@@ -22009,10 +21205,6 @@ Map	117		Delay2: Hipass
 Map	118		Rev1: Dry
 Map	119		Rev1: Wet
 
-//**********************************************************************************
-//		End of Zebrify(x64)
-//**********************************************************************************
-
 Scope	UVI	vst.Rela.Relayerx64
 
 Map	1		Fx2 Wahwah Mode____
@@ -22041,10 +21233,6 @@ Map	23		Ducker Attack
 Map	24		Ducker Hold
 Map	25		Ducker Decay
 
-//**********************************************************************************
-//		End of Relayerx64
-//**********************************************************************************
-
 Scope	Vengeance	vst.Avgr.VPS Avenger_x64
 
 Map	1		OSC3 Voice3Vol
@@ -22069,10 +21257,10 @@ Map	19		OSC3 Sample Slot 1 Pan
 Map	20		OSC3 Sample Slot 2 Pan
 Map	21		OSC3 Sample Slot 3 Pan
 Map	22		OSC3 Sample Slot 4 Pan
-Map	23		OSC3 Sample Slot 1 Root 
-Map	24		OSC3 Sample Slot 2 Root 
-Map	25		OSC3 Sample Slot 3 Root 
-Map	26		OSC3 Sample Slot 4 Root 
+Map	23		OSC3 Sample Slot 1 Root
+Map	24		OSC3 Sample Slot 2 Root
+Map	25		OSC3 Sample Slot 3 Root
+Map	26		OSC3 Sample Slot 4 Root
 Map	27		OSC3 Microfade
 Map	28		OSC3 WT Env.Enable
 Map	29		OSC3 WT Env. Strenght
@@ -22160,16 +21348,12 @@ Map	110		OSC4 Sample Slot 1 Pan
 Map	111		OSC4 Sample Slot 2 Pan
 Map	112		OSC4 Sample Slot 3 Pan
 Map	113		OSC4 Sample Slot 4 Pan
-Map	114		OSC4 Sample Slot 1 Root 
-Map	115		OSC4 Sample Slot 2 Root 
-Map	116		OSC4 Sample Slot 3 Root 
-Map	117		OSC4 Sample Slot 4 Root 
+Map	114		OSC4 Sample Slot 1 Root
+Map	115		OSC4 Sample Slot 2 Root
+Map	116		OSC4 Sample Slot 3 Root
+Map	117		OSC4 Sample Slot 4 Root
 Map	118		OSC4 Microfade
 Map	119		OSC4 WT Env.Enable
-
-//**********************************************************************************
-//		End of VPS Avenger_x64
-//**********************************************************************************
 
 Scope	Xfer Records	vst.XFRa.Nerve
 
@@ -22293,10 +21477,6 @@ Map	117		LFODelay 7
 Map	118		LFORise 7
 Map	119		LFORetrig 7
 
-//**********************************************************************************
-//		End of Nerve
-//**********************************************************************************
-
 Scope	Xfer Records	vst.XfsY.SerumFX_x64
 
 Map	1		Mod23 out
@@ -22331,10 +21511,6 @@ Map	29		Comp_Wet
 Map	30		CompMB L
 Map	31		CompMB M
 Map	32		CompMB H
-
-//**********************************************************************************
-//		End of SerumFX_x64
-//**********************************************************************************
 
 Scope	XLN Audio	vst.xAD2.Addictive Drums 2
 
@@ -22408,10 +21584,6 @@ Map	67		Ch Master Mute
 Map	68		Ch Master LoFlt
 Map	69		Ch Master HiFlt
 
-//**********************************************************************************
-//		End of Addictive Drums 2
-//**********************************************************************************
-
 Scope	Zvork	fr.zvork.VoltSL1
 
 Map	1		set10_cv14
@@ -22481,8 +21653,4 @@ Map	64		glide
 Map	65		trigger_res
 Map	66		is_on
 Map	67		Sync. End of Transition
-
-//**********************************************************************************
-//		End of VoltSL1
-//**********************************************************************************
 
